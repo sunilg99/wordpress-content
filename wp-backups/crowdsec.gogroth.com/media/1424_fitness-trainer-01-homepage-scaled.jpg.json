@@ -1,0 +1,83 @@
+{
+    "ID": 1424,
+    "post_title": "fitness-trainer-01-homepage.jpg",
+    "post_name": "fitness-trainer-01-homepage-jpg",
+    "post_date": "2025-02-06 11:13:39",
+    "post_mime_type": "image\/jpeg",
+    "filename": "fitness-trainer-01-homepage-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/fitness-trainer-01-homepage-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 605,
+                "height": 2560,
+                "file": "2025\/02\/fitness-trainer-01-homepage-scaled.jpg",
+                "filesize": 131171,
+                "sizes": {
+                    "medium": {
+                        "file": "fitness-trainer-01-homepage-71x300.jpg",
+                        "width": 71,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 4938
+                    },
+                    "large": {
+                        "file": "fitness-trainer-01-homepage-242x1024.jpg",
+                        "width": 242,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 31287
+                    },
+                    "thumbnail": {
+                        "file": "fitness-trainer-01-homepage-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 3119
+                    },
+                    "medium_large": {
+                        "file": "fitness-trainer-01-homepage-768x3251.jpg",
+                        "width": 768,
+                        "height": 3251,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 191230
+                    },
+                    "1536x1536": {
+                        "file": "fitness-trainer-01-homepage-363x1536.jpg",
+                        "width": 363,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 57162
+                    },
+                    "2048x2048": {
+                        "file": "fitness-trainer-01-homepage-484x2048.jpg",
+                        "width": 484,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 91683
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "fitness-trainer-01-homepage.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "4cac8eae6b3ab24a3550fcf83b8e4b7024704902"
+        ]
+    }
+}
