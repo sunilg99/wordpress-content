@@ -1,0 +1,83 @@
+{
+    "ID": 1559,
+    "post_title": "home-remodeling-home.jpg",
+    "post_name": "home-remodeling-home-jpg",
+    "post_date": "2025-02-06 11:14:57",
+    "post_mime_type": "image\/jpeg",
+    "filename": "home-remodeling-home-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/home-remodeling-home-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 718,
+                "height": 2560,
+                "file": "2025\/02\/home-remodeling-home-scaled.jpg",
+                "filesize": 149444,
+                "sizes": {
+                    "medium": {
+                        "file": "home-remodeling-home-84x300.jpg",
+                        "width": 84,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 6358
+                    },
+                    "large": {
+                        "file": "home-remodeling-home-287x1024.jpg",
+                        "width": 287,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 36723
+                    },
+                    "thumbnail": {
+                        "file": "home-remodeling-home-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 4970
+                    },
+                    "medium_large": {
+                        "file": "home-remodeling-home-768x2738.jpg",
+                        "width": 768,
+                        "height": 2738,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 165136
+                    },
+                    "1536x1536": {
+                        "file": "home-remodeling-home-431x1536.jpg",
+                        "width": 431,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 67915
+                    },
+                    "2048x2048": {
+                        "file": "home-remodeling-home-574x2048.jpg",
+                        "width": 574,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 106001
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "home-remodeling-home.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "0d52a6d2775d32c6a32edda7425528536a5728fa"
+        ]
+    }
+}
