@@ -1,15 +1,6 @@
 {
     "name": "cron",
     "value": {
-        "1744986914": {
-            "wordfence_ls_ntp_cron": {
-                "40cd750bba9870f18aada2478b24840a": {
-                    "schedule": "hourly",
-                    "args": [],
-                    "interval": 3600
-                }
-            }
-        },
         "1744988106": {
             "check_user_modifications": {
                 "40cd750bba9870f18aada2478b24840a": {
