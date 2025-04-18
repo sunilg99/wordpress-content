@@ -1,0 +1,83 @@
+{
+    "ID": 1336,
+    "post_title": "ebook-author-02-home-page.jpg",
+    "post_name": "ebook-author-02-home-page-jpg",
+    "post_date": "2025-02-06 11:12:58",
+    "post_mime_type": "image\/jpeg",
+    "filename": "ebook-author-02-home-page-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/ebook-author-02-home-page-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 638,
+                "height": 2560,
+                "file": "2025\/02\/ebook-author-02-home-page-scaled.jpg",
+                "filesize": 149470,
+                "sizes": {
+                    "medium": {
+                        "file": "ebook-author-02-home-page-75x300.jpg",
+                        "width": 75,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 5202
+                    },
+                    "large": {
+                        "file": "ebook-author-02-home-page-255x1024.jpg",
+                        "width": 255,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 31899
+                    },
+                    "thumbnail": {
+                        "file": "ebook-author-02-home-page-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 3930
+                    },
+                    "medium_large": {
+                        "file": "ebook-author-02-home-page-768x3080.jpg",
+                        "width": 768,
+                        "height": 3080,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 204229
+                    },
+                    "1536x1536": {
+                        "file": "ebook-author-02-home-page-383x1536.jpg",
+                        "width": 383,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 63158
+                    },
+                    "2048x2048": {
+                        "file": "ebook-author-02-home-page-511x2048.jpg",
+                        "width": 511,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 102520
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "ebook-author-02-home-page.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "202dd9923c8b17a2571cdf84886c0cdb3e0809a8"
+        ]
+    }
+}
