@@ -1,0 +1,83 @@
+{
+    "ID": 1991,
+    "post_title": "gardenr-landscaping.jpg",
+    "post_name": "gardenr-landscaping-jpg",
+    "post_date": "2025-02-06 11:18:44",
+    "post_mime_type": "image\/jpeg",
+    "filename": "gardenr-landscaping-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/gardenr-landscaping-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 805,
+                "height": 2560,
+                "file": "2025\/02\/gardenr-landscaping-scaled.jpg",
+                "filesize": 229506,
+                "sizes": {
+                    "medium": {
+                        "file": "gardenr-landscaping-94x300.jpg",
+                        "width": 94,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 6591
+                    },
+                    "large": {
+                        "file": "gardenr-landscaping-322x1024.jpg",
+                        "width": 322,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 49173
+                    },
+                    "thumbnail": {
+                        "file": "gardenr-landscaping-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 3962
+                    },
+                    "medium_large": {
+                        "file": "gardenr-landscaping-768x2443.jpg",
+                        "width": 768,
+                        "height": 2443,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 216160
+                    },
+                    "1536x1536": {
+                        "file": "gardenr-landscaping-483x1536.jpg",
+                        "width": 483,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 98246
+                    },
+                    "2048x2048": {
+                        "file": "gardenr-landscaping-644x2048.jpg",
+                        "width": 644,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 160631
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "gardenr-landscaping.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "66e5f67d35294fd340aeafaa8288149ced115696"
+        ]
+    }
+}
