@@ -1,0 +1,83 @@
+{
+    "ID": 1053,
+    "post_title": "home-stay-02-home.jpg",
+    "post_name": "home-stay-02-home-jpg-2",
+    "post_date": "2025-02-06 11:09:34",
+    "post_mime_type": "image\/jpeg",
+    "filename": "home-stay-02-home-1-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/home-stay-02-home-1-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 561,
+                "height": 2560,
+                "file": "2025\/02\/home-stay-02-home-1-scaled.jpg",
+                "filesize": 259032,
+                "sizes": {
+                    "medium": {
+                        "file": "home-stay-02-home-1-66x300.jpg",
+                        "width": 66,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 7407
+                    },
+                    "large": {
+                        "file": "home-stay-02-home-1-224x1024.jpg",
+                        "width": 224,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 51001
+                    },
+                    "thumbnail": {
+                        "file": "home-stay-02-home-1-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 5496
+                    },
+                    "medium_large": {
+                        "file": "home-stay-02-home-1-768x3507.jpg",
+                        "width": 768,
+                        "height": 3507,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 442571
+                    },
+                    "1536x1536": {
+                        "file": "home-stay-02-home-1-336x1536.jpg",
+                        "width": 336,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 104285
+                    },
+                    "2048x2048": {
+                        "file": "home-stay-02-home-1-448x2048.jpg",
+                        "width": 448,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 170967
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "home-stay-02-home-1.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "771560cbbec3bf162e8b47d41781d9d09a90a759"
+        ]
+    }
+}
