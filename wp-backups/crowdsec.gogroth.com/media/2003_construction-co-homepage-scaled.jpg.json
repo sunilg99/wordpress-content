@@ -1,0 +1,83 @@
+{
+    "ID": 2003,
+    "post_title": "construction-co-homepage.jpg",
+    "post_name": "construction-co-homepage-jpg",
+    "post_date": "2025-02-06 11:18:53",
+    "post_mime_type": "image\/jpeg",
+    "filename": "construction-co-homepage-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/construction-co-homepage-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 534,
+                "height": 2560,
+                "file": "2025\/02\/construction-co-homepage-scaled.jpg",
+                "filesize": 200048,
+                "sizes": {
+                    "medium": {
+                        "file": "construction-co-homepage-63x300.jpg",
+                        "width": 63,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 6325
+                    },
+                    "large": {
+                        "file": "construction-co-homepage-214x1024.jpg",
+                        "width": 214,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 43190
+                    },
+                    "thumbnail": {
+                        "file": "construction-co-homepage-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 5367
+                    },
+                    "medium_large": {
+                        "file": "construction-co-homepage-768x3679.jpg",
+                        "width": 768,
+                        "height": 3679,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 363019
+                    },
+                    "1536x1536": {
+                        "file": "construction-co-homepage-321x1536.jpg",
+                        "width": 321,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 84305
+                    },
+                    "2048x2048": {
+                        "file": "construction-co-homepage-428x2048.jpg",
+                        "width": 428,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 137570
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "construction-co-homepage.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "cf26e3678b8ffd4998454d347d3d32515d0d1846"
+        ]
+    }
+}
