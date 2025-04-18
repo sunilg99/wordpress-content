@@ -1,15 +1,6 @@
 {
     "name": "cron",
     "value": {
-        "1744985092": {
-            "wsal_cleanup_hook": {
-                "40cd750bba9870f18aada2478b24840a": {
-                    "schedule": "hourly",
-                    "args": [],
-                    "interval": 3600
-                }
-            }
-        },
         "1744986262": {
             "jetpack_clean_nonces": {
                 "40cd750bba9870f18aada2478b24840a": {
