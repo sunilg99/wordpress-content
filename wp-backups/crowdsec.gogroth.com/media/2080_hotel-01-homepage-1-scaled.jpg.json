@@ -1,0 +1,83 @@
+{
+    "ID": 2080,
+    "post_title": "hotel-01-homepage.jpg",
+    "post_name": "hotel-01-homepage-jpg-2",
+    "post_date": "2025-02-06 11:19:52",
+    "post_mime_type": "image\/jpeg",
+    "filename": "hotel-01-homepage-1-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/hotel-01-homepage-1-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 653,
+                "height": 2560,
+                "file": "2025\/02\/hotel-01-homepage-1-scaled.jpg",
+                "filesize": 174608,
+                "sizes": {
+                    "medium": {
+                        "file": "hotel-01-homepage-1-77x300.jpg",
+                        "width": 77,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 6011
+                    },
+                    "large": {
+                        "file": "hotel-01-homepage-1-261x1024.jpg",
+                        "width": 261,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 39932
+                    },
+                    "thumbnail": {
+                        "file": "hotel-01-homepage-1-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 5948
+                    },
+                    "medium_large": {
+                        "file": "hotel-01-homepage-1-768x3009.jpg",
+                        "width": 768,
+                        "height": 3009,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 225516
+                    },
+                    "1536x1536": {
+                        "file": "hotel-01-homepage-1-392x1536.jpg",
+                        "width": 392,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 75703
+                    },
+                    "2048x2048": {
+                        "file": "hotel-01-homepage-1-523x2048.jpg",
+                        "width": 523,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 122157
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "hotel-01-homepage-1.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "d91f5a2eb34b03f6a262b0991b781597edc5f3f7"
+        ]
+    }
+}
