@@ -1,0 +1,83 @@
+{
+    "ID": 1250,
+    "post_title": "voiceover-artist-02-home.jpg",
+    "post_name": "voiceover-artist-02-home-jpg",
+    "post_date": "2025-02-06 11:12:00",
+    "post_mime_type": "image\/jpeg",
+    "filename": "voiceover-artist-02-home-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/voiceover-artist-02-home-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 656,
+                "height": 2560,
+                "file": "2025\/02\/voiceover-artist-02-home-scaled.jpg",
+                "filesize": 209744,
+                "sizes": {
+                    "medium": {
+                        "file": "voiceover-artist-02-home-77x300.jpg",
+                        "width": 77,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 7488
+                    },
+                    "large": {
+                        "file": "voiceover-artist-02-home-263x1024.jpg",
+                        "width": 263,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 49254
+                    },
+                    "thumbnail": {
+                        "file": "voiceover-artist-02-home-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 6421
+                    },
+                    "medium_large": {
+                        "file": "voiceover-artist-02-home-768x2996.jpg",
+                        "width": 768,
+                        "height": 2996,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 270985
+                    },
+                    "1536x1536": {
+                        "file": "voiceover-artist-02-home-394x1536.jpg",
+                        "width": 394,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 93659
+                    },
+                    "2048x2048": {
+                        "file": "voiceover-artist-02-home-525x2048.jpg",
+                        "width": 525,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 150579
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "voiceover-artist-02-home.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "3f90558d0252c182a4f4a1eba171c985be8f5ea0"
+        ]
+    }
+}
