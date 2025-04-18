@@ -1,17 +1,9 @@
 {
     "name": "active_plugins",
     "value": [
-        "query-monitor\/query-monitor.php",
-        "astra-portfolio\/astra-portfolio.php",
-        "call-now-button\/call-now-button.php",
-        "crowdsec\/crowdsec.php",
-        "customize-admin\/customize-admin.php",
-        "elementor\/elementor.php",
-        "file-manager-advanced\/file_manager_advanced.php",
-        "insert-headers-and-footers\/ihaf.php",
-        "post-smtp\/postman-smtp.php",
-        "revision.php",
-        "wp-security-audit-log\/wp-security-audit-log.php"
+        "all-in-one-wp-migration\/all-in-one-wp-migration.php",
+        "bnfw\/bnfw.php",
+        "revision.php"
     ],
-    "updated_at": "2025-04-18 13:44:02"
+    "updated_at": "2025-04-18 13:52:06"
 }
