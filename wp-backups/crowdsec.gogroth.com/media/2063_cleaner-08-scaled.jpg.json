@@ -1,0 +1,83 @@
+{
+    "ID": 2063,
+    "post_title": "cleaner-08.jpg",
+    "post_name": "cleaner-08-jpg",
+    "post_date": "2025-02-06 11:19:41",
+    "post_mime_type": "image\/jpeg",
+    "filename": "cleaner-08-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/cleaner-08-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 648,
+                "height": 2560,
+                "file": "2025\/02\/cleaner-08-scaled.jpg",
+                "filesize": 174989,
+                "sizes": {
+                    "medium": {
+                        "file": "cleaner-08-76x300.jpg",
+                        "width": 76,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 6157
+                    },
+                    "large": {
+                        "file": "cleaner-08-259x1024.jpg",
+                        "width": 259,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 38171
+                    },
+                    "thumbnail": {
+                        "file": "cleaner-08-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 4452
+                    },
+                    "medium_large": {
+                        "file": "cleaner-08-768x3036.jpg",
+                        "width": 768,
+                        "height": 3036,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 232592
+                    },
+                    "1536x1536": {
+                        "file": "cleaner-08-389x1536.jpg",
+                        "width": 389,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 74854
+                    },
+                    "2048x2048": {
+                        "file": "cleaner-08-518x2048.jpg",
+                        "width": 518,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 119527
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "cleaner-08.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "7bac7c4df5f728da125dd4479fe58b67459cce92"
+        ]
+    }
+}
