@@ -1,0 +1,83 @@
+{
+    "ID": 1550,
+    "post_title": "manufacturing-04-homepage.jpg",
+    "post_name": "manufacturing-04-homepage-jpg",
+    "post_date": "2025-02-06 11:14:54",
+    "post_mime_type": "image\/jpeg",
+    "filename": "manufacturing-04-homepage-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/manufacturing-04-homepage-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 1075,
+                "height": 2560,
+                "file": "2025\/02\/manufacturing-04-homepage-scaled.jpg",
+                "filesize": 311312,
+                "sizes": {
+                    "medium": {
+                        "file": "manufacturing-04-homepage-126x300.jpg",
+                        "width": 126,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 11135
+                    },
+                    "large": {
+                        "file": "manufacturing-04-homepage-430x1024.jpg",
+                        "width": 430,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 74095
+                    },
+                    "thumbnail": {
+                        "file": "manufacturing-04-homepage-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 8265
+                    },
+                    "medium_large": {
+                        "file": "manufacturing-04-homepage-768x1828.jpg",
+                        "width": 768,
+                        "height": 1828,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 184373
+                    },
+                    "1536x1536": {
+                        "file": "manufacturing-04-homepage-645x1536.jpg",
+                        "width": 645,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 139664
+                    },
+                    "2048x2048": {
+                        "file": "manufacturing-04-homepage-860x2048.jpg",
+                        "width": 860,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 220050
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "manufacturing-04-homepage.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "f6d4650640ca7a8dcd618277694bc8d992abb30e"
+        ]
+    }
+}
