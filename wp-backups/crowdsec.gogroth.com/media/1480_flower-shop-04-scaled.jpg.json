@@ -1,0 +1,83 @@
+{
+    "ID": 1480,
+    "post_title": "flower-shop-04.jpg",
+    "post_name": "flower-shop-04-jpg",
+    "post_date": "2025-02-06 11:14:14",
+    "post_mime_type": "image\/jpeg",
+    "filename": "flower-shop-04-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/flower-shop-04-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 486,
+                "height": 2560,
+                "file": "2025\/02\/flower-shop-04-scaled.jpg",
+                "filesize": 212221,
+                "sizes": {
+                    "medium": {
+                        "file": "flower-shop-04-57x300.jpg",
+                        "width": 57,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 7666
+                    },
+                    "large": {
+                        "file": "flower-shop-04-195x1024.jpg",
+                        "width": 195,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 48988
+                    },
+                    "thumbnail": {
+                        "file": "flower-shop-04-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 6177
+                    },
+                    "medium_large": {
+                        "file": "flower-shop-04-768x4042.jpg",
+                        "width": 768,
+                        "height": 4042,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 442359
+                    },
+                    "1536x1536": {
+                        "file": "flower-shop-04-292x1536.jpg",
+                        "width": 292,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 92504
+                    },
+                    "2048x2048": {
+                        "file": "flower-shop-04-389x2048.jpg",
+                        "width": 389,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 150349
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "flower-shop-04.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "c998b532560418bd1b48b05168e3fe603a973ae3"
+        ]
+    }
+}
