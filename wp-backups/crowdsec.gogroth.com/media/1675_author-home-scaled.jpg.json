@@ -1,0 +1,83 @@
+{
+    "ID": 1675,
+    "post_title": "author-home.jpg",
+    "post_name": "author-home-jpg",
+    "post_date": "2025-02-06 11:15:55",
+    "post_mime_type": "image\/jpeg",
+    "filename": "author-home-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/author-home-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 715,
+                "height": 2560,
+                "file": "2025\/02\/author-home-scaled.jpg",
+                "filesize": 141300,
+                "sizes": {
+                    "medium": {
+                        "file": "author-home-84x300.jpg",
+                        "width": 84,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 6174
+                    },
+                    "large": {
+                        "file": "author-home-286x1024.jpg",
+                        "width": 286,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 33657
+                    },
+                    "thumbnail": {
+                        "file": "author-home-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 4585
+                    },
+                    "medium_large": {
+                        "file": "author-home-768x2750.jpg",
+                        "width": 768,
+                        "height": 2750,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 159145
+                    },
+                    "1536x1536": {
+                        "file": "author-home-429x1536.jpg",
+                        "width": 429,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 62984
+                    },
+                    "2048x2048": {
+                        "file": "author-home-572x2048.jpg",
+                        "width": 572,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 99888
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "author-home.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "539f962951810093a8f9a871515dc3ce33c8b46f"
+        ]
+    }
+}
