@@ -1,0 +1,83 @@
+{
+    "ID": 1895,
+    "post_title": "motivational-speaker-03-homepage.jpg",
+    "post_name": "motivational-speaker-03-homepage-jpg-2",
+    "post_date": "2025-02-06 11:17:48",
+    "post_mime_type": "image\/jpeg",
+    "filename": "motivational-speaker-03-homepage-1-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/motivational-speaker-03-homepage-1-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 862,
+                "height": 2560,
+                "file": "2025\/02\/motivational-speaker-03-homepage-1-scaled.jpg",
+                "filesize": 194525,
+                "sizes": {
+                    "medium": {
+                        "file": "motivational-speaker-03-homepage-1-101x300.jpg",
+                        "width": 101,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 6536
+                    },
+                    "large": {
+                        "file": "motivational-speaker-03-homepage-1-345x1024.jpg",
+                        "width": 345,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 42607
+                    },
+                    "thumbnail": {
+                        "file": "motivational-speaker-03-homepage-1-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 3817
+                    },
+                    "medium_large": {
+                        "file": "motivational-speaker-03-homepage-1-768x2281.jpg",
+                        "width": 768,
+                        "height": 2281,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 161300
+                    },
+                    "1536x1536": {
+                        "file": "motivational-speaker-03-homepage-1-517x1536.jpg",
+                        "width": 517,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 83104
+                    },
+                    "2048x2048": {
+                        "file": "motivational-speaker-03-homepage-1-690x2048.jpg",
+                        "width": 690,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 136097
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "motivational-speaker-03-homepage-1.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "ff8e580c590fd0a3f3187d2ddab6f409abe03137"
+        ]
+    }
+}
