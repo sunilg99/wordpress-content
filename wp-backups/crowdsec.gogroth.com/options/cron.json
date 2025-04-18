@@ -1,15 +1,6 @@
 {
     "name": "cron",
     "value": {
-        "1744986273": {
-            "wc_admin_unsnooze_admin_notes": {
-                "40cd750bba9870f18aada2478b24840a": {
-                    "schedule": "hourly",
-                    "args": [],
-                    "interval": 3600
-                }
-            }
-        },
         "1744986914": {
             "wordfence_ls_ntp_cron": {
                 "40cd750bba9870f18aada2478b24840a": {
@@ -348,5 +339,5 @@
         },
         "version": 2
     },
-    "updated_at": "2025-04-18 23:31:21"
+    "updated_at": "2025-04-18 23:31:22"
 }
