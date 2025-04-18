@@ -163,6 +163,15 @@
                 }
             }
         },
+        "1745036661": {
+            "woocommerce_cleanup_sessions": {
+                "40cd750bba9870f18aada2478b24840a": {
+                    "schedule": "twicedaily",
+                    "args": [],
+                    "interval": 43200
+                }
+            }
+        },
         "1745046055": {
             "wordfence_daily_cron": {
                 "40cd750bba9870f18aada2478b24840a": {
@@ -339,5 +348,5 @@
         },
         "version": 2
     },
-    "updated_at": "2025-04-18 23:31:26"
+    "updated_at": "2025-04-18 23:31:27"
 }
