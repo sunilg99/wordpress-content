@@ -1,0 +1,83 @@
+{
+    "ID": 1827,
+    "post_title": "ecourse-learn-photoshop-03-homepage.jpg",
+    "post_name": "ecourse-learn-photoshop-03-homepage-jpg",
+    "post_date": "2025-02-06 11:17:16",
+    "post_mime_type": "image\/jpeg",
+    "filename": "ecourse-learn-photoshop-03-homepage-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/ecourse-learn-photoshop-03-homepage-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 639,
+                "height": 2560,
+                "file": "2025\/02\/ecourse-learn-photoshop-03-homepage-scaled.jpg",
+                "filesize": 142656,
+                "sizes": {
+                    "medium": {
+                        "file": "ecourse-learn-photoshop-03-homepage-75x300.jpg",
+                        "width": 75,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 4949
+                    },
+                    "large": {
+                        "file": "ecourse-learn-photoshop-03-homepage-256x1024.jpg",
+                        "width": 256,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 28792
+                    },
+                    "thumbnail": {
+                        "file": "ecourse-learn-photoshop-03-homepage-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 4003
+                    },
+                    "medium_large": {
+                        "file": "ecourse-learn-photoshop-03-homepage-768x3075.jpg",
+                        "width": 768,
+                        "height": 3075,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 195289
+                    },
+                    "1536x1536": {
+                        "file": "ecourse-learn-photoshop-03-homepage-384x1536.jpg",
+                        "width": 384,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 56411
+                    },
+                    "2048x2048": {
+                        "file": "ecourse-learn-photoshop-03-homepage-512x2048.jpg",
+                        "width": 512,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 96328
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "ecourse-learn-photoshop-03-homepage.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "92d4f526e6220545f2a5b5086a9e14313e0b4485"
+        ]
+    }
+}
