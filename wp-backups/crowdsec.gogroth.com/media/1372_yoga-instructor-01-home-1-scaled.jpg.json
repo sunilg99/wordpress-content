@@ -1,0 +1,83 @@
+{
+    "ID": 1372,
+    "post_title": "yoga-instructor-01-home-1.jpg",
+    "post_name": "yoga-instructor-01-home-1-jpg",
+    "post_date": "2025-02-06 11:13:15",
+    "post_mime_type": "image\/jpeg",
+    "filename": "yoga-instructor-01-home-1-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/yoga-instructor-01-home-1-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 654,
+                "height": 2560,
+                "file": "2025\/02\/yoga-instructor-01-home-1-scaled.jpg",
+                "filesize": 134264,
+                "sizes": {
+                    "medium": {
+                        "file": "yoga-instructor-01-home-1-77x300.jpg",
+                        "width": 77,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 4652
+                    },
+                    "large": {
+                        "file": "yoga-instructor-01-home-1-262x1024.jpg",
+                        "width": 262,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 31014
+                    },
+                    "thumbnail": {
+                        "file": "yoga-instructor-01-home-1-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 3350
+                    },
+                    "medium_large": {
+                        "file": "yoga-instructor-01-home-1-768x3006.jpg",
+                        "width": 768,
+                        "height": 3006,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 170953
+                    },
+                    "1536x1536": {
+                        "file": "yoga-instructor-01-home-1-392x1536.jpg",
+                        "width": 392,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 58350
+                    },
+                    "2048x2048": {
+                        "file": "yoga-instructor-01-home-1-523x2048.jpg",
+                        "width": 523,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 94817
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "yoga-instructor-01-home-1.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "76c4323e94ab0ae8de2d570c5a6cd5beeb3ad3be"
+        ]
+    }
+}
