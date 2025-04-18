@@ -154,15 +154,6 @@
                 }
             }
         },
-        "1745048044": {
-            "elementor\/tracker\/send_event": {
-                "40cd750bba9870f18aada2478b24840a": {
-                    "schedule": "daily",
-                    "args": [],
-                    "interval": 86400
-                }
-            }
-        },
         "1745058261": {
             "wc_admin_daily": {
                 "40cd750bba9870f18aada2478b24840a": {
@@ -330,5 +321,5 @@
         },
         "version": 2
     },
-    "updated_at": "2025-04-18 13:43:05"
+    "updated_at": "2025-04-18 13:43:06"
 }
