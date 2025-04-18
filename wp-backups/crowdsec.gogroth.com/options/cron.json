@@ -1,15 +1,6 @@
 {
     "name": "cron",
     "value": {
-        "1744983809": {
-            "wp_github_sync_scheduled_backup": {
-                "40cd750bba9870f18aada2478b24840a": {
-                    "schedule": "hourly",
-                    "args": [],
-                    "interval": 3600
-                }
-            }
-        },
         "1744984506": {
             "check_user_modifications": {
                 "40cd750bba9870f18aada2478b24840a": {
@@ -321,5 +312,5 @@
         },
         "version": 2
     },
-    "updated_at": "2025-04-18 13:43:30"
+    "updated_at": "2025-04-18 13:43:31"
 }
