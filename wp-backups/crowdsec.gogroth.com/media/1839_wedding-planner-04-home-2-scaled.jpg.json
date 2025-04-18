@@ -1,0 +1,83 @@
+{
+    "ID": 1839,
+    "post_title": "wedding-planner-04-home-2.jpg",
+    "post_name": "wedding-planner-04-home-2-jpg",
+    "post_date": "2025-02-06 11:17:22",
+    "post_mime_type": "image\/jpeg",
+    "filename": "wedding-planner-04-home-2-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/wedding-planner-04-home-2-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 490,
+                "height": 2560,
+                "file": "2025\/02\/wedding-planner-04-home-2-scaled.jpg",
+                "filesize": 154809,
+                "sizes": {
+                    "medium": {
+                        "file": "wedding-planner-04-home-2-57x300.jpg",
+                        "width": 57,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 5341
+                    },
+                    "large": {
+                        "file": "wedding-planner-04-home-2-196x1024.jpg",
+                        "width": 196,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 36619
+                    },
+                    "thumbnail": {
+                        "file": "wedding-planner-04-home-2-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 4751
+                    },
+                    "medium_large": {
+                        "file": "wedding-planner-04-home-2-768x4012.jpg",
+                        "width": 768,
+                        "height": 4012,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 315812
+                    },
+                    "1536x1536": {
+                        "file": "wedding-planner-04-home-2-294x1536.jpg",
+                        "width": 294,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 69373
+                    },
+                    "2048x2048": {
+                        "file": "wedding-planner-04-home-2-392x2048.jpg",
+                        "width": 392,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 109509
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "wedding-planner-04-home-2.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "778e9ca31600cb0fdd56a0e7268f5016e11e34a2"
+        ]
+    }
+}
