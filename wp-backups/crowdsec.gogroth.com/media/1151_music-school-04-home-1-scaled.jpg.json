@@ -1,0 +1,83 @@
+{
+    "ID": 1151,
+    "post_title": "music-school-04-home-1.jpg",
+    "post_name": "music-school-04-home-1-jpg",
+    "post_date": "2025-02-06 11:10:48",
+    "post_mime_type": "image\/jpeg",
+    "filename": "music-school-04-home-1-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/music-school-04-home-1-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 362,
+                "height": 2560,
+                "file": "2025\/02\/music-school-04-home-1-scaled.jpg",
+                "filesize": 117755,
+                "sizes": {
+                    "medium": {
+                        "file": "music-school-04-home-1-42x300.jpg",
+                        "width": 42,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 4079
+                    },
+                    "large": {
+                        "file": "music-school-04-home-1-145x1024.jpg",
+                        "width": 145,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 27412
+                    },
+                    "thumbnail": {
+                        "file": "music-school-04-home-1-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 4725
+                    },
+                    "medium_large": {
+                        "file": "music-school-04-home-1-768x5425.jpg",
+                        "width": 768,
+                        "height": 5425,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 391474
+                    },
+                    "1536x1536": {
+                        "file": "music-school-04-home-1-217x1536.jpg",
+                        "width": 217,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 52421
+                    },
+                    "2048x2048": {
+                        "file": "music-school-04-home-1-290x2048.jpg",
+                        "width": 290,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 83464
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "music-school-04-home-1.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "7e555c9083bda9bec4d1db5662fe288b38ae1e95"
+        ]
+    }
+}
