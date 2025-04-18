@@ -73,6 +73,15 @@
                 }
             }
         },
+        "1745020648": {
+            "wp_site_monitoring_check_conflicts": {
+                "40cd750bba9870f18aada2478b24840a": {
+                    "schedule": "hourly",
+                    "args": [],
+                    "interval": 3600
+                }
+            }
+        },
         "1745020800": {
             "woocommerce_scheduled_sales": {
                 "40cd750bba9870f18aada2478b24840a": {
