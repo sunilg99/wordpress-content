@@ -1,0 +1,83 @@
+{
+    "ID": 1256,
+    "post_title": "diagnostics-lab-04.jpg",
+    "post_name": "diagnostics-lab-04-jpg",
+    "post_date": "2025-02-06 11:12:05",
+    "post_mime_type": "image\/jpeg",
+    "filename": "diagnostics-lab-04-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/diagnostics-lab-04-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 401,
+                "height": 2560,
+                "file": "2025\/02\/diagnostics-lab-04-scaled.jpg",
+                "filesize": 154289,
+                "sizes": {
+                    "medium": {
+                        "file": "diagnostics-lab-04-47x300.jpg",
+                        "width": 47,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 5131
+                    },
+                    "large": {
+                        "file": "diagnostics-lab-04-160x1024.jpg",
+                        "width": 160,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 34634
+                    },
+                    "thumbnail": {
+                        "file": "diagnostics-lab-04-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 5438
+                    },
+                    "medium_large": {
+                        "file": "diagnostics-lab-04-768x4904.jpg",
+                        "width": 768,
+                        "height": 4904,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 429776
+                    },
+                    "1536x1536": {
+                        "file": "diagnostics-lab-04-241x1536.jpg",
+                        "width": 241,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 67489
+                    },
+                    "2048x2048": {
+                        "file": "diagnostics-lab-04-321x2048.jpg",
+                        "width": 321,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 107802
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "diagnostics-lab-04.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "f4e4b177a865af8be7e03fe9d7d7d7c5000b1f02"
+        ]
+    }
+}
