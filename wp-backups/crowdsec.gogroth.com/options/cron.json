@@ -190,6 +190,15 @@
                 }
             }
         },
+        "1745058266": {
+            "woocommerce_marketplace_cron_fetch_promotions": {
+                "40cd750bba9870f18aada2478b24840a": {
+                    "schedule": "twicedaily",
+                    "args": [],
+                    "interval": 43200
+                }
+            }
+        },
         "1745058271": {
             "woocommerce_cleanup_personal_data": {
                 "40cd750bba9870f18aada2478b24840a": {
