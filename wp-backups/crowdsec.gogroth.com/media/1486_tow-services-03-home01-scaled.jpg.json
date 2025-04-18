@@ -1,0 +1,83 @@
+{
+    "ID": 1486,
+    "post_title": "tow-services-03-home01.jpg",
+    "post_name": "tow-services-03-home01-jpg",
+    "post_date": "2025-02-06 11:14:17",
+    "post_mime_type": "image\/jpeg",
+    "filename": "tow-services-03-home01-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/tow-services-03-home01-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 813,
+                "height": 2560,
+                "file": "2025\/02\/tow-services-03-home01-scaled.jpg",
+                "filesize": 236028,
+                "sizes": {
+                    "medium": {
+                        "file": "tow-services-03-home01-95x300.jpg",
+                        "width": 95,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 7845
+                    },
+                    "large": {
+                        "file": "tow-services-03-home01-325x1024.jpg",
+                        "width": 325,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 52144
+                    },
+                    "thumbnail": {
+                        "file": "tow-services-03-home01-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 6902
+                    },
+                    "medium_large": {
+                        "file": "tow-services-03-home01-768x2419.jpg",
+                        "width": 768,
+                        "height": 2419,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 213378
+                    },
+                    "1536x1536": {
+                        "file": "tow-services-03-home01-488x1536.jpg",
+                        "width": 488,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 100317
+                    },
+                    "2048x2048": {
+                        "file": "tow-services-03-home01-650x2048.jpg",
+                        "width": 650,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 161134
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "tow-services-03-home01.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "e221ed67f0bf71213fee10df91b0a680eec42b87"
+        ]
+    }
+}
