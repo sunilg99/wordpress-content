@@ -1,0 +1,82 @@
+{
+    "ID": 1734,
+    "post_title": "sierra-nature-home-screenshot.png",
+    "post_name": "sierra-nature-home-screenshot-png",
+    "post_date": "2025-02-06 11:16:23",
+    "post_mime_type": "image\/png",
+    "filename": "sierra-nature-home-screenshot.png",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/sierra-nature-home-screenshot.png"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 1200,
+                "height": 3830,
+                "file": "2025\/02\/sierra-nature-home-screenshot.png",
+                "filesize": 1439066,
+                "sizes": {
+                    "medium": {
+                        "file": "sierra-nature-home-screenshot-94x300.png",
+                        "width": 94,
+                        "height": 300,
+                        "mime-type": "image\/png",
+                        "filesize": 31832
+                    },
+                    "large": {
+                        "file": "sierra-nature-home-screenshot-321x1024.png",
+                        "width": 321,
+                        "height": 1024,
+                        "mime-type": "image\/png",
+                        "filesize": 306045
+                    },
+                    "thumbnail": {
+                        "file": "sierra-nature-home-screenshot-150x150.png",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/png",
+                        "filesize": 20756
+                    },
+                    "medium_large": {
+                        "file": "sierra-nature-home-screenshot-768x2451.png",
+                        "width": 768,
+                        "height": 2451,
+                        "mime-type": "image\/png",
+                        "filesize": 1667351
+                    },
+                    "1536x1536": {
+                        "file": "sierra-nature-home-screenshot-481x1536.png",
+                        "width": 481,
+                        "height": 1536,
+                        "mime-type": "image\/png",
+                        "filesize": 664171
+                    },
+                    "2048x2048": {
+                        "file": "sierra-nature-home-screenshot-642x2048.png",
+                        "width": 642,
+                        "height": 2048,
+                        "mime-type": "image\/png",
+                        "filesize": 1172260
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                }
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "0411c54afe89effbd3e0a8b56de74832502c1a40"
+        ]
+    }
+}
