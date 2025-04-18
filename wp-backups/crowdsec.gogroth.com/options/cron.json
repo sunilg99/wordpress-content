@@ -136,6 +136,15 @@
                 }
             }
         },
+        "1745022273": {
+            "wc_admin_unsnooze_admin_notes": {
+                "40cd750bba9870f18aada2478b24840a": {
+                    "schedule": "hourly",
+                    "args": [],
+                    "interval": 3600
+                }
+            }
+        },
         "1745022843": {
             "wp_update_plugins": {
                 "40cd750bba9870f18aada2478b24840a": {
