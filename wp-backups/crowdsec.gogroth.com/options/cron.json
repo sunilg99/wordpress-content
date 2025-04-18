@@ -73,15 +73,6 @@
                 }
             }
         },
-        "1744988052": {
-            "wp_github_sync_scheduled_backup": {
-                "40cd750bba9870f18aada2478b24840a": {
-                    "schedule": "hourly",
-                    "args": [],
-                    "interval": 3600
-                }
-            }
-        },
         "1744993461": {
             "woocommerce_cleanup_sessions": {
                 "40cd750bba9870f18aada2478b24840a": {
@@ -330,5 +321,5 @@
         },
         "version": 2
     },
-    "updated_at": "2025-04-18 13:54:16"
+    "updated_at": "2025-04-18 13:54:20"
 }
