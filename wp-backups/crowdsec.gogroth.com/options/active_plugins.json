@@ -3,7 +3,9 @@
     "value": [
         "all-in-one-wp-migration\/all-in-one-wp-migration.php",
         "bnfw\/bnfw.php",
+        "call-now-button.php",
+        "classic-editor\/classic-editor.php",
         "revision.php"
     ],
-    "updated_at": "2025-04-18 13:52:06"
+    "updated_at": "2025-04-18 13:52:09"
 }
