@@ -1,13 +1,8 @@
 [
-    "query-monitor\/query-monitor.php",
-    "astra-portfolio\/astra-portfolio.php",
-    "call-now-button\/call-now-button.php",
-    "crowdsec\/crowdsec.php",
-    "customize-admin\/customize-admin.php",
-    "elementor\/elementor.php",
-    "file-manager-advanced\/file_manager_advanced.php",
-    "insert-headers-and-footers\/ihaf.php",
-    "post-smtp\/postman-smtp.php",
-    "revision.php",
-    "wp-security-audit-log\/wp-security-audit-log.php"
+    "all-in-one-wp-migration\/all-in-one-wp-migration.php",
+    "bnfw\/bnfw.php",
+    "call-now-button.php",
+    "classic-editor\/classic-editor.php",
+    "file_manager_advanced.php",
+    "revision.php"
 ]
