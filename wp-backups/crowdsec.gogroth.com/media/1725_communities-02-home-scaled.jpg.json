@@ -1,0 +1,83 @@
+{
+    "ID": 1725,
+    "post_title": "communities-02-home.jpg",
+    "post_name": "communities-02-home-jpg",
+    "post_date": "2025-02-06 11:16:19",
+    "post_mime_type": "image\/jpeg",
+    "filename": "communities-02-home-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/communities-02-home-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 684,
+                "height": 2560,
+                "file": "2025\/02\/communities-02-home-scaled.jpg",
+                "filesize": 237313,
+                "sizes": {
+                    "medium": {
+                        "file": "communities-02-home-80x300.jpg",
+                        "width": 80,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 8652
+                    },
+                    "large": {
+                        "file": "communities-02-home-273x1024.jpg",
+                        "width": 273,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 55398
+                    },
+                    "thumbnail": {
+                        "file": "communities-02-home-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 5790
+                    },
+                    "medium_large": {
+                        "file": "communities-02-home-768x2876.jpg",
+                        "width": 768,
+                        "height": 2876,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 281407
+                    },
+                    "1536x1536": {
+                        "file": "communities-02-home-410x1536.jpg",
+                        "width": 410,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 104846
+                    },
+                    "2048x2048": {
+                        "file": "communities-02-home-547x2048.jpg",
+                        "width": 547,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 166063
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "communities-02-home.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "8d8a53fb0936ef1a403af643ed92884d47231141"
+        ]
+    }
+}
