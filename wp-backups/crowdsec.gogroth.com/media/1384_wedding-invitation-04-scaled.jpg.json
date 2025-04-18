@@ -1,0 +1,83 @@
+{
+    "ID": 1384,
+    "post_title": "wedding-invitation-04.jpg",
+    "post_name": "wedding-invitation-04-jpg",
+    "post_date": "2025-02-06 11:13:20",
+    "post_mime_type": "image\/jpeg",
+    "filename": "wedding-invitation-04-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/wedding-invitation-04-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 594,
+                "height": 2560,
+                "file": "2025\/02\/wedding-invitation-04-scaled.jpg",
+                "filesize": 209468,
+                "sizes": {
+                    "medium": {
+                        "file": "wedding-invitation-04-70x300.jpg",
+                        "width": 70,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 5490
+                    },
+                    "large": {
+                        "file": "wedding-invitation-04-238x1024.jpg",
+                        "width": 238,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 40826
+                    },
+                    "thumbnail": {
+                        "file": "wedding-invitation-04-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 4638
+                    },
+                    "medium_large": {
+                        "file": "wedding-invitation-04-768x3309.jpg",
+                        "width": 768,
+                        "height": 3309,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 332437
+                    },
+                    "1536x1536": {
+                        "file": "wedding-invitation-04-357x1536.jpg",
+                        "width": 357,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 83103
+                    },
+                    "2048x2048": {
+                        "file": "wedding-invitation-04-475x2048.jpg",
+                        "width": 475,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 139199
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "wedding-invitation-04.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "35ee399c24c045dcad3d7118a75b9f4a3df630c9"
+        ]
+    }
+}
