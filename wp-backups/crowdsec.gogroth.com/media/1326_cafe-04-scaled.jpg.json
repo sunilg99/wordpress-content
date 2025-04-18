@@ -1,0 +1,83 @@
+{
+    "ID": 1326,
+    "post_title": "cafe-04.jpg",
+    "post_name": "cafe-04-jpg",
+    "post_date": "2025-02-06 11:12:49",
+    "post_mime_type": "image\/jpeg",
+    "filename": "cafe-04-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/cafe-04-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 554,
+                "height": 2560,
+                "file": "2025\/02\/cafe-04-scaled.jpg",
+                "filesize": 192038,
+                "sizes": {
+                    "medium": {
+                        "file": "cafe-04-65x300.jpg",
+                        "width": 65,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 5745
+                    },
+                    "large": {
+                        "file": "cafe-04-222x1024.jpg",
+                        "width": 222,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 41647
+                    },
+                    "thumbnail": {
+                        "file": "cafe-04-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 5275
+                    },
+                    "medium_large": {
+                        "file": "cafe-04-768x3548.jpg",
+                        "width": 768,
+                        "height": 3548,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 323699
+                    },
+                    "1536x1536": {
+                        "file": "cafe-04-333x1536.jpg",
+                        "width": 333,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 82442
+                    },
+                    "2048x2048": {
+                        "file": "cafe-04-443x2048.jpg",
+                        "width": 443,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 131263
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "cafe-04.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "79aec70ac55e6cea35442ad22b86252049c0dfc7"
+        ]
+    }
+}
