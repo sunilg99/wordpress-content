@@ -1,0 +1,83 @@
+{
+    "ID": 1621,
+    "post_title": "wordpress-agency-feb-20-home.jpg",
+    "post_name": "wordpress-agency-feb-20-home-jpg",
+    "post_date": "2025-02-06 11:15:29",
+    "post_mime_type": "image\/jpeg",
+    "filename": "wordpress-agency-feb-20-home-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/wordpress-agency-feb-20-home-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 454,
+                "height": 2560,
+                "file": "2025\/02\/wordpress-agency-feb-20-home-scaled.jpg",
+                "filesize": 91137,
+                "sizes": {
+                    "medium": {
+                        "file": "wordpress-agency-feb-20-home-53x300.jpg",
+                        "width": 53,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 3737
+                    },
+                    "large": {
+                        "file": "wordpress-agency-feb-20-home-182x1024.jpg",
+                        "width": 182,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 21314
+                    },
+                    "thumbnail": {
+                        "file": "wordpress-agency-feb-20-home-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 1831
+                    },
+                    "medium_large": {
+                        "file": "wordpress-agency-feb-20-home-768x4330.jpg",
+                        "width": 768,
+                        "height": 4330,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 207821
+                    },
+                    "1536x1536": {
+                        "file": "wordpress-agency-feb-20-home-272x1536.jpg",
+                        "width": 272,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 39977
+                    },
+                    "2048x2048": {
+                        "file": "wordpress-agency-feb-20-home-363x2048.jpg",
+                        "width": 363,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 62264
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "wordpress-agency-feb-20-home.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "7c1cf5eba9d3d3f920fc4fecf15bbc7323779784"
+        ]
+    }
+}
