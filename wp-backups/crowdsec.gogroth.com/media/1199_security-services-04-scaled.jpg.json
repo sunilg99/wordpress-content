@@ -1,0 +1,83 @@
+{
+    "ID": 1199,
+    "post_title": "security-services-04.jpg",
+    "post_name": "security-services-04-jpg",
+    "post_date": "2025-02-06 11:11:19",
+    "post_mime_type": "image\/jpeg",
+    "filename": "security-services-04-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/security-services-04-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 584,
+                "height": 2560,
+                "file": "2025\/02\/security-services-04-scaled.jpg",
+                "filesize": 190073,
+                "sizes": {
+                    "medium": {
+                        "file": "security-services-04-68x300.jpg",
+                        "width": 68,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 5626
+                    },
+                    "large": {
+                        "file": "security-services-04-234x1024.jpg",
+                        "width": 234,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 39665
+                    },
+                    "thumbnail": {
+                        "file": "security-services-04-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 4440
+                    },
+                    "medium_large": {
+                        "file": "security-services-04-768x3364.jpg",
+                        "width": 768,
+                        "height": 3364,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 293274
+                    },
+                    "1536x1536": {
+                        "file": "security-services-04-351x1536.jpg",
+                        "width": 351,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 77757
+                    },
+                    "2048x2048": {
+                        "file": "security-services-04-467x2048.jpg",
+                        "width": 467,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 129812
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "security-services-04.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "daba8502e6cd1d5e8969b8eac7b520c3d2260e72"
+        ]
+    }
+}
