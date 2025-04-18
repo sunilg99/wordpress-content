@@ -1,0 +1,83 @@
+{
+    "ID": 1553,
+    "post_title": "manufacturing-03-home-01.jpg",
+    "post_name": "manufacturing-03-home-01-jpg",
+    "post_date": "2025-02-06 11:14:55",
+    "post_mime_type": "image\/jpeg",
+    "filename": "manufacturing-03-home-01-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/manufacturing-03-home-01-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 888,
+                "height": 2560,
+                "file": "2025\/02\/manufacturing-03-home-01-scaled.jpg",
+                "filesize": 250776,
+                "sizes": {
+                    "medium": {
+                        "file": "manufacturing-03-home-01-104x300.jpg",
+                        "width": 104,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 8792
+                    },
+                    "large": {
+                        "file": "manufacturing-03-home-01-355x1024.jpg",
+                        "width": 355,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 59349
+                    },
+                    "thumbnail": {
+                        "file": "manufacturing-03-home-01-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 7550
+                    },
+                    "medium_large": {
+                        "file": "manufacturing-03-home-01-768x2213.jpg",
+                        "width": 768,
+                        "height": 2213,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 199251
+                    },
+                    "1536x1536": {
+                        "file": "manufacturing-03-home-01-533x1536.jpg",
+                        "width": 533,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 110905
+                    },
+                    "2048x2048": {
+                        "file": "manufacturing-03-home-01-711x2048.jpg",
+                        "width": 711,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 175067
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "manufacturing-03-home-01.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "e4eaee669366042cb890e5a598b13376d9140d2d"
+        ]
+    }
+}
