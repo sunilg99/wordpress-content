@@ -1,7 +1,7 @@
 {
     "name": "cron",
     "value": {
-        "1744983747": {
+        "1744983749": {
             "wp_github_sync_scheduled_backup": {
                 "40cd750bba9870f18aada2478b24840a": {
                     "schedule": "hourly",
@@ -75,6 +75,15 @@
         },
         "1744986914": {
             "wordfence_ls_ntp_cron": {
+                "40cd750bba9870f18aada2478b24840a": {
+                    "schedule": "hourly",
+                    "args": [],
+                    "interval": 3600
+                }
+            }
+        },
+        "1744987349": {
+            "wp_github_sync_scheduled_backup": {
                 "40cd750bba9870f18aada2478b24840a": {
                     "schedule": "hourly",
                     "args": [],
@@ -330,5 +339,5 @@
         },
         "version": 2
     },
-    "updated_at": "2025-04-18 13:42:27"
+    "updated_at": "2025-04-18 13:42:29"
 }
