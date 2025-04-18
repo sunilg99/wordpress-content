@@ -1,0 +1,83 @@
+{
+    "ID": 1492,
+    "post_title": "pool-services-home.jpg",
+    "post_name": "pool-services-home-jpg",
+    "post_date": "2025-02-06 11:14:20",
+    "post_mime_type": "image\/jpeg",
+    "filename": "pool-services-home-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/pool-services-home-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 587,
+                "height": 2560,
+                "file": "2025\/02\/pool-services-home-scaled.jpg",
+                "filesize": 203806,
+                "sizes": {
+                    "medium": {
+                        "file": "pool-services-home-69x300.jpg",
+                        "width": 69,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 7529
+                    },
+                    "large": {
+                        "file": "pool-services-home-235x1024.jpg",
+                        "width": 235,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 48074
+                    },
+                    "thumbnail": {
+                        "file": "pool-services-home-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 6420
+                    },
+                    "medium_large": {
+                        "file": "pool-services-home-768x3352.jpg",
+                        "width": 768,
+                        "height": 3352,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 303926
+                    },
+                    "1536x1536": {
+                        "file": "pool-services-home-352x1536.jpg",
+                        "width": 352,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 91982
+                    },
+                    "2048x2048": {
+                        "file": "pool-services-home-469x2048.jpg",
+                        "width": 469,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 144512
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "pool-services-home.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "86f123d455d4ce5ab97de91daa2c8178f500a3c1"
+        ]
+    }
+}
