@@ -1,0 +1,83 @@
+{
+    "ID": 1203,
+    "post_title": "real-estate-agency-04-homepage-02.jpg",
+    "post_name": "real-estate-agency-04-homepage-02-jpg",
+    "post_date": "2025-02-06 11:11:22",
+    "post_mime_type": "image\/jpeg",
+    "filename": "real-estate-agency-04-homepage-02-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/real-estate-agency-04-homepage-02-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 517,
+                "height": 2560,
+                "file": "2025\/02\/real-estate-agency-04-homepage-02-scaled.jpg",
+                "filesize": 226927,
+                "sizes": {
+                    "medium": {
+                        "file": "real-estate-agency-04-homepage-02-61x300.jpg",
+                        "width": 61,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 6983
+                    },
+                    "large": {
+                        "file": "real-estate-agency-04-homepage-02-207x1024.jpg",
+                        "width": 207,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 47515
+                    },
+                    "thumbnail": {
+                        "file": "real-estate-agency-04-homepage-02-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 7721
+                    },
+                    "medium_large": {
+                        "file": "real-estate-agency-04-homepage-02-768x3802.jpg",
+                        "width": 768,
+                        "height": 3802,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 440406
+                    },
+                    "1536x1536": {
+                        "file": "real-estate-agency-04-homepage-02-310x1536.jpg",
+                        "width": 310,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 93908
+                    },
+                    "2048x2048": {
+                        "file": "real-estate-agency-04-homepage-02-414x2048.jpg",
+                        "width": 414,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 154092
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "real-estate-agency-04-homepage-02.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "a7b9fdcf0c5d91cea009547141466b7ff44bf3b4"
+        ]
+    }
+}
