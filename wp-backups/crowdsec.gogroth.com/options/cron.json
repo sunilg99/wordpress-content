@@ -91,15 +91,6 @@
                 }
             }
         },
-        "1745017651": {
-            "cnb_wp_info": {
-                "40cd750bba9870f18aada2478b24840a": {
-                    "schedule": "twicedaily",
-                    "args": [],
-                    "interval": 43200
-                }
-            }
-        },
         "1745017756": {
             "wp_update_user_counts": {
                 "40cd750bba9870f18aada2478b24840a": {
@@ -330,5 +321,5 @@
         },
         "version": 2
     },
-    "updated_at": "2025-04-18 13:40:43"
+    "updated_at": "2025-04-18 13:41:24"
 }
