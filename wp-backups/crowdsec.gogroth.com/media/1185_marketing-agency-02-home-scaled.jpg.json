@@ -1,0 +1,83 @@
+{
+    "ID": 1185,
+    "post_title": "marketing-agency-02-home.jpg",
+    "post_name": "marketing-agency-02-home-jpg",
+    "post_date": "2025-02-06 11:11:11",
+    "post_mime_type": "image\/jpeg",
+    "filename": "marketing-agency-02-home-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/marketing-agency-02-home-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 618,
+                "height": 2560,
+                "file": "2025\/02\/marketing-agency-02-home-scaled.jpg",
+                "filesize": 173929,
+                "sizes": {
+                    "medium": {
+                        "file": "marketing-agency-02-home-72x300.jpg",
+                        "width": 72,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 5977
+                    },
+                    "large": {
+                        "file": "marketing-agency-02-home-247x1024.jpg",
+                        "width": 247,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 39243
+                    },
+                    "thumbnail": {
+                        "file": "marketing-agency-02-home-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 4459
+                    },
+                    "medium_large": {
+                        "file": "marketing-agency-02-home-768x3181.jpg",
+                        "width": 768,
+                        "height": 3181,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 244976
+                    },
+                    "1536x1536": {
+                        "file": "marketing-agency-02-home-371x1536.jpg",
+                        "width": 371,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 76595
+                    },
+                    "2048x2048": {
+                        "file": "marketing-agency-02-home-494x2048.jpg",
+                        "width": 494,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 121120
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "marketing-agency-02-home.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "2449184ad874b2208b5810b68e3fcf88766652e0"
+        ]
+    }
+}
