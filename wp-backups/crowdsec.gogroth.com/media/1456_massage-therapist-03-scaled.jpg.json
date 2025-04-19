@@ -1,0 +1,83 @@
+{
+    "ID": 1456,
+    "post_title": "massage-therapist-03.jpg",
+    "post_name": "massage-therapist-03-jpg",
+    "post_date": "2025-02-06 11:14:01",
+    "post_mime_type": "image\/jpeg",
+    "filename": "massage-therapist-03-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/massage-therapist-03-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 649,
+                "height": 2560,
+                "file": "2025\/02\/massage-therapist-03-scaled.jpg",
+                "filesize": 188852,
+                "sizes": {
+                    "medium": {
+                        "file": "massage-therapist-03-76x300.jpg",
+                        "width": 76,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 10628
+                    },
+                    "large": {
+                        "file": "massage-therapist-03-260x1024.jpg",
+                        "width": 260,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 45915
+                    },
+                    "thumbnail": {
+                        "file": "massage-therapist-03-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 9990
+                    },
+                    "medium_large": {
+                        "file": "massage-therapist-03-768x3030.jpg",
+                        "width": 768,
+                        "height": 3030,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 253855
+                    },
+                    "1536x1536": {
+                        "file": "massage-therapist-03-389x1536.jpg",
+                        "width": 389,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 83315
+                    },
+                    "2048x2048": {
+                        "file": "massage-therapist-03-519x2048.jpg",
+                        "width": 519,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 131493
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "massage-therapist-03.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "60d3da65b408a98cef5fddd2b980d11f402765de"
+        ]
+    }
+}
