@@ -1,0 +1,83 @@
+{
+    "ID": 1996,
+    "post_title": "demo-screenshot.jpg",
+    "post_name": "demo-screenshot-jpg-2",
+    "post_date": "2025-02-06 11:18:47",
+    "post_mime_type": "image\/jpeg",
+    "filename": "demo-screenshot-1-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/demo-screenshot-1-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 815,
+                "height": 2560,
+                "file": "2025\/02\/demo-screenshot-1-scaled.jpg",
+                "filesize": 224562,
+                "sizes": {
+                    "medium": {
+                        "file": "demo-screenshot-1-95x300.jpg",
+                        "width": 95,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 8712
+                    },
+                    "large": {
+                        "file": "demo-screenshot-1-326x1024.jpg",
+                        "width": 326,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 52996
+                    },
+                    "thumbnail": {
+                        "file": "demo-screenshot-1-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 6413
+                    },
+                    "medium_large": {
+                        "file": "demo-screenshot-1-768x2413.jpg",
+                        "width": 768,
+                        "height": 2413,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 203493
+                    },
+                    "1536x1536": {
+                        "file": "demo-screenshot-1-489x1536.jpg",
+                        "width": 489,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 101345
+                    },
+                    "2048x2048": {
+                        "file": "demo-screenshot-1-652x2048.jpg",
+                        "width": 652,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 153841
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "demo-screenshot-1.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "1a8b743794eb265df0a7d48f78c35bf3ffdd9de9"
+        ]
+    }
+}
