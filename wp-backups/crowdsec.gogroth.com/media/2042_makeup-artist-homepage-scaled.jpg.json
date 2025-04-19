@@ -1,0 +1,83 @@
+{
+    "ID": 2042,
+    "post_title": "makeup-artist-homepage.jpg",
+    "post_name": "makeup-artist-homepage-jpg",
+    "post_date": "2025-02-06 11:19:24",
+    "post_mime_type": "image\/jpeg",
+    "filename": "makeup-artist-homepage-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/makeup-artist-homepage-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 735,
+                "height": 2560,
+                "file": "2025\/02\/makeup-artist-homepage-scaled.jpg",
+                "filesize": 210710,
+                "sizes": {
+                    "medium": {
+                        "file": "makeup-artist-homepage-86x300.jpg",
+                        "width": 86,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 6697
+                    },
+                    "large": {
+                        "file": "makeup-artist-homepage-294x1024.jpg",
+                        "width": 294,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 44375
+                    },
+                    "thumbnail": {
+                        "file": "makeup-artist-homepage-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 5220
+                    },
+                    "medium_large": {
+                        "file": "makeup-artist-homepage-768x2676.jpg",
+                        "width": 768,
+                        "height": 2676,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 231391
+                    },
+                    "1536x1536": {
+                        "file": "makeup-artist-homepage-441x1536.jpg",
+                        "width": 441,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 90366
+                    },
+                    "2048x2048": {
+                        "file": "makeup-artist-homepage-588x2048.jpg",
+                        "width": 588,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 148660
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "makeup-artist-homepage.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "cfa66db43227e3e6767822d5fd4b5d40c0dfbabe"
+        ]
+    }
+}
