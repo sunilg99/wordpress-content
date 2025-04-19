@@ -10,6 +10,15 @@
                 }
             }
         },
+        "1745035534": {
+            "wp_github_sync_scheduled_backup": {
+                "40cd750bba9870f18aada2478b24840a": {
+                    "schedule": "hourly",
+                    "args": [],
+                    "interval": 3600
+                }
+            }
+        },
         "1745036661": {
             "woocommerce_cleanup_sessions": {
                 "40cd750bba9870f18aada2478b24840a": {
