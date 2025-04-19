@@ -1,0 +1,83 @@
+{
+    "ID": 1544,
+    "post_title": "construction-04-homepage.jpg",
+    "post_name": "construction-04-homepage-jpg",
+    "post_date": "2025-02-06 11:14:50",
+    "post_mime_type": "image\/jpeg",
+    "filename": "construction-04-homepage-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/construction-04-homepage-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 632,
+                "height": 2560,
+                "file": "2025\/02\/construction-04-homepage-scaled.jpg",
+                "filesize": 223409,
+                "sizes": {
+                    "medium": {
+                        "file": "construction-04-homepage-74x300.jpg",
+                        "width": 74,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 7180
+                    },
+                    "large": {
+                        "file": "construction-04-homepage-253x1024.jpg",
+                        "width": 253,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 44942
+                    },
+                    "thumbnail": {
+                        "file": "construction-04-homepage-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 4914
+                    },
+                    "medium_large": {
+                        "file": "construction-04-homepage-768x3111.jpg",
+                        "width": 768,
+                        "height": 3111,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 313495
+                    },
+                    "1536x1536": {
+                        "file": "construction-04-homepage-379x1536.jpg",
+                        "width": 379,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 89950
+                    },
+                    "2048x2048": {
+                        "file": "construction-04-homepage-506x2048.jpg",
+                        "width": 506,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 149381
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "construction-04-homepage.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "fc33682d49307ef729d7ac7b6f3a65fd4cf65268"
+        ]
+    }
+}
