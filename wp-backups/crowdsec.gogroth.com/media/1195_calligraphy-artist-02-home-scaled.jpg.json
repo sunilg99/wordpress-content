@@ -1,0 +1,83 @@
+{
+    "ID": 1195,
+    "post_title": "calligraphy-artist-02-home.jpg",
+    "post_name": "calligraphy-artist-02-home-jpg",
+    "post_date": "2025-02-06 11:11:16",
+    "post_mime_type": "image\/jpeg",
+    "filename": "calligraphy-artist-02-home-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/calligraphy-artist-02-home-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 628,
+                "height": 2560,
+                "file": "2025\/02\/calligraphy-artist-02-home-scaled.jpg",
+                "filesize": 245116,
+                "sizes": {
+                    "medium": {
+                        "file": "calligraphy-artist-02-home-74x300.jpg",
+                        "width": 74,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 7833
+                    },
+                    "large": {
+                        "file": "calligraphy-artist-02-home-251x1024.jpg",
+                        "width": 251,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 55219
+                    },
+                    "thumbnail": {
+                        "file": "calligraphy-artist-02-home-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 5611
+                    },
+                    "medium_large": {
+                        "file": "calligraphy-artist-02-home-768x3130.jpg",
+                        "width": 768,
+                        "height": 3130,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 335278
+                    },
+                    "1536x1536": {
+                        "file": "calligraphy-artist-02-home-377x1536.jpg",
+                        "width": 377,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 108112
+                    },
+                    "2048x2048": {
+                        "file": "calligraphy-artist-02-home-502x2048.jpg",
+                        "width": 502,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 171046
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "calligraphy-artist-02-home.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "a45b134c2cb7c768b70f0895b2e970e1cb4e64bc"
+        ]
+    }
+}
