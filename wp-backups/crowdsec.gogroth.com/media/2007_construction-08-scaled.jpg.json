@@ -1,0 +1,83 @@
+{
+    "ID": 2007,
+    "post_title": "construction-08.jpg",
+    "post_name": "construction-08-jpg",
+    "post_date": "2025-02-06 11:18:56",
+    "post_mime_type": "image\/jpeg",
+    "filename": "construction-08-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/construction-08-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 507,
+                "height": 2560,
+                "file": "2025\/02\/construction-08-scaled.jpg",
+                "filesize": 221882,
+                "sizes": {
+                    "medium": {
+                        "file": "construction-08-59x300.jpg",
+                        "width": 59,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 7279
+                    },
+                    "large": {
+                        "file": "construction-08-203x1024.jpg",
+                        "width": 203,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 46193
+                    },
+                    "thumbnail": {
+                        "file": "construction-08-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 7023
+                    },
+                    "medium_large": {
+                        "file": "construction-08-768x3878.jpg",
+                        "width": 768,
+                        "height": 3878,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 448386
+                    },
+                    "1536x1536": {
+                        "file": "construction-08-304x1536.jpg",
+                        "width": 304,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 91144
+                    },
+                    "2048x2048": {
+                        "file": "construction-08-406x2048.jpg",
+                        "width": 406,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 149681
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "construction-08.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "9e2621f2127850f3d763d2a1304ae1be75850a3f"
+        ]
+    }
+}
