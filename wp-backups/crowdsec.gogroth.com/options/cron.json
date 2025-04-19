@@ -1,15 +1,6 @@
 {
     "name": "cron",
     "value": {
-        "1745024643": {
-            "wp_update_themes": {
-                "40cd750bba9870f18aada2478b24840a": {
-                    "schedule": "twicedaily",
-                    "args": [],
-                    "interval": 43200
-                }
-            }
-        },
         "1745024650": {
             "wp_privacy_delete_old_export_files": {
                 "40cd750bba9870f18aada2478b24840a": {
@@ -364,5 +355,5 @@
         },
         "version": 2
     },
-    "updated_at": "2025-04-19 02:11:32"
+    "updated_at": "2025-04-19 02:11:33"
 }
