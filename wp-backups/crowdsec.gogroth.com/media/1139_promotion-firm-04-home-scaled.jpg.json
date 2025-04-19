@@ -1,0 +1,83 @@
+{
+    "ID": 1139,
+    "post_title": "promotion-firm-04-home.jpg",
+    "post_name": "promotion-firm-04-home-jpg",
+    "post_date": "2025-02-06 11:10:42",
+    "post_mime_type": "image\/jpeg",
+    "filename": "promotion-firm-04-home-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/promotion-firm-04-home-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 483,
+                "height": 2560,
+                "file": "2025\/02\/promotion-firm-04-home-scaled.jpg",
+                "filesize": 154706,
+                "sizes": {
+                    "medium": {
+                        "file": "promotion-firm-04-home-57x300.jpg",
+                        "width": 57,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 6104
+                    },
+                    "large": {
+                        "file": "promotion-firm-04-home-193x1024.jpg",
+                        "width": 193,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 36744
+                    },
+                    "thumbnail": {
+                        "file": "promotion-firm-04-home-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 7438
+                    },
+                    "medium_large": {
+                        "file": "promotion-firm-04-home-768x4070.jpg",
+                        "width": 768,
+                        "height": 4070,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 319269
+                    },
+                    "1536x1536": {
+                        "file": "promotion-firm-04-home-290x1536.jpg",
+                        "width": 290,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 69337
+                    },
+                    "2048x2048": {
+                        "file": "promotion-firm-04-home-386x2048.jpg",
+                        "width": 386,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 108457
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "promotion-firm-04-home.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "607990d7f74c0e7ee9246b52c4daab1e274ec9e3"
+        ]
+    }
+}
