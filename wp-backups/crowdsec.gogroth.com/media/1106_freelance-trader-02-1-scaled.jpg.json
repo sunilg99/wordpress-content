@@ -1,0 +1,83 @@
+{
+    "ID": 1106,
+    "post_title": "freelance-trader-02.jpg",
+    "post_name": "freelance-trader-02-jpg-2",
+    "post_date": "2025-02-06 11:10:20",
+    "post_mime_type": "image\/jpeg",
+    "filename": "freelance-trader-02-1-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/freelance-trader-02-1-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 549,
+                "height": 2560,
+                "file": "2025\/02\/freelance-trader-02-1-scaled.jpg",
+                "filesize": 227981,
+                "sizes": {
+                    "medium": {
+                        "file": "freelance-trader-02-1-64x300.jpg",
+                        "width": 64,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 7749
+                    },
+                    "large": {
+                        "file": "freelance-trader-02-1-220x1024.jpg",
+                        "width": 220,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 52100
+                    },
+                    "thumbnail": {
+                        "file": "freelance-trader-02-1-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 7202
+                    },
+                    "medium_large": {
+                        "file": "freelance-trader-02-1-768x3579.jpg",
+                        "width": 768,
+                        "height": 3579,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 389242
+                    },
+                    "1536x1536": {
+                        "file": "freelance-trader-02-1-330x1536.jpg",
+                        "width": 330,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 97523
+                    },
+                    "2048x2048": {
+                        "file": "freelance-trader-02-1-439x2048.jpg",
+                        "width": 439,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 158815
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "freelance-trader-02-1.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "b3164c0b62ba8a4d0fb664f56a91842a23ee5f9c"
+        ]
+    }
+}
