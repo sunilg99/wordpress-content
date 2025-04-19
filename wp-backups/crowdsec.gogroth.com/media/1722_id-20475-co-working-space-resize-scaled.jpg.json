@@ -1,0 +1,83 @@
+{
+    "ID": 1722,
+    "post_title": "id-20475-co-working-space-resize.jpg",
+    "post_name": "id-20475-co-working-space-resize-jpg",
+    "post_date": "2025-02-06 11:16:17",
+    "post_mime_type": "image\/jpeg",
+    "filename": "id-20475-co-working-space-resize-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/id-20475-co-working-space-resize-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 915,
+                "height": 2560,
+                "file": "2025\/02\/id-20475-co-working-space-resize-scaled.jpg",
+                "filesize": 196420,
+                "sizes": {
+                    "medium": {
+                        "file": "id-20475-co-working-space-resize-107x300.jpg",
+                        "width": 107,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 7060
+                    },
+                    "large": {
+                        "file": "id-20475-co-working-space-resize-366x1024.jpg",
+                        "width": 366,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 45597
+                    },
+                    "thumbnail": {
+                        "file": "id-20475-co-working-space-resize-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 4356
+                    },
+                    "medium_large": {
+                        "file": "id-20475-co-working-space-resize-768x2149.jpg",
+                        "width": 768,
+                        "height": 2149,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 151166
+                    },
+                    "1536x1536": {
+                        "file": "id-20475-co-working-space-resize-549x1536.jpg",
+                        "width": 549,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 88910
+                    },
+                    "2048x2048": {
+                        "file": "id-20475-co-working-space-resize-732x2048.jpg",
+                        "width": 732,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 137558
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "id-20475-co-working-space-resize.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "8abf6fab55aaab407c1bb5549405f59dff15e1e8"
+        ]
+    }
+}
