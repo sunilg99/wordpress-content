@@ -1,15 +1,6 @@
 {
     "name": "cron",
     "value": {
-        "1745031448": {
-            "wp_site_monitoring_check_conflicts": {
-                "40cd750bba9870f18aada2478b24840a": {
-                    "schedule": "hourly",
-                    "args": [],
-                    "interval": 3600
-                }
-            }
-        },
         "1745031655": {
             "wordfence_hourly_cron": {
                 "40cd750bba9870f18aada2478b24840a": {
