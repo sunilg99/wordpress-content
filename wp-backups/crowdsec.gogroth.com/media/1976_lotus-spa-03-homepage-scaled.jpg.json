@@ -1,0 +1,83 @@
+{
+    "ID": 1976,
+    "post_title": "lotus-spa-03-homepage.jpg",
+    "post_name": "lotus-spa-03-homepage-jpg",
+    "post_date": "2025-02-06 11:18:36",
+    "post_mime_type": "image\/jpeg",
+    "filename": "lotus-spa-03-homepage-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/lotus-spa-03-homepage-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 701,
+                "height": 2560,
+                "file": "2025\/02\/lotus-spa-03-homepage-scaled.jpg",
+                "filesize": 142519,
+                "sizes": {
+                    "medium": {
+                        "file": "lotus-spa-03-homepage-82x300.jpg",
+                        "width": 82,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 4614
+                    },
+                    "large": {
+                        "file": "lotus-spa-03-homepage-281x1024.jpg",
+                        "width": 281,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 31257
+                    },
+                    "thumbnail": {
+                        "file": "lotus-spa-03-homepage-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 4259
+                    },
+                    "medium_large": {
+                        "file": "lotus-spa-03-homepage-768x2803.jpg",
+                        "width": 768,
+                        "height": 2803,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 166590
+                    },
+                    "1536x1536": {
+                        "file": "lotus-spa-03-homepage-421x1536.jpg",
+                        "width": 421,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 60714
+                    },
+                    "2048x2048": {
+                        "file": "lotus-spa-03-homepage-561x2048.jpg",
+                        "width": 561,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 98378
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "lotus-spa-03-homepage.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "98467ee6f5253579a0b441ee446f9811c1ba986f"
+        ]
+    }
+}
