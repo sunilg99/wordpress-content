@@ -1,0 +1,83 @@
+{
+    "ID": 1639,
+    "post_title": "agency-06-home.jpg",
+    "post_name": "agency-06-home-jpg",
+    "post_date": "2025-02-06 11:15:37",
+    "post_mime_type": "image\/jpeg",
+    "filename": "agency-06-home-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/agency-06-home-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 425,
+                "height": 2560,
+                "file": "2025\/02\/agency-06-home-scaled.jpg",
+                "filesize": 113488,
+                "sizes": {
+                    "medium": {
+                        "file": "agency-06-home-50x300.jpg",
+                        "width": 50,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 4397
+                    },
+                    "large": {
+                        "file": "agency-06-home-170x1024.jpg",
+                        "width": 170,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 26633
+                    },
+                    "thumbnail": {
+                        "file": "agency-06-home-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 4790
+                    },
+                    "medium_large": {
+                        "file": "agency-06-home-768x4627.jpg",
+                        "width": 768,
+                        "height": 4627,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 289272
+                    },
+                    "1536x1536": {
+                        "file": "agency-06-home-255x1536.jpg",
+                        "width": 255,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 50713
+                    },
+                    "2048x2048": {
+                        "file": "agency-06-home-340x2048.jpg",
+                        "width": 340,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 80089
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "agency-06-home.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "caccee8feb4e9be0b439692cc3bffe36b5effb27"
+        ]
+    }
+}
