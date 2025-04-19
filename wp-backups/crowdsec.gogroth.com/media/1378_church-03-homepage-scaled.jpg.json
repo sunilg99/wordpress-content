@@ -1,0 +1,83 @@
+{
+    "ID": 1378,
+    "post_title": "church-03-homepage.jpg",
+    "post_name": "church-03-homepage-jpg",
+    "post_date": "2025-02-06 11:13:17",
+    "post_mime_type": "image\/jpeg",
+    "filename": "church-03-homepage-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/church-03-homepage-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 781,
+                "height": 2560,
+                "file": "2025\/02\/church-03-homepage-scaled.jpg",
+                "filesize": 244686,
+                "sizes": {
+                    "medium": {
+                        "file": "church-03-homepage-92x300.jpg",
+                        "width": 92,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 8167
+                    },
+                    "large": {
+                        "file": "church-03-homepage-313x1024.jpg",
+                        "width": 313,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 55795
+                    },
+                    "thumbnail": {
+                        "file": "church-03-homepage-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 6009
+                    },
+                    "medium_large": {
+                        "file": "church-03-homepage-768x2516.jpg",
+                        "width": 768,
+                        "height": 2516,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 237365
+                    },
+                    "1536x1536": {
+                        "file": "church-03-homepage-469x1536.jpg",
+                        "width": 469,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 106215
+                    },
+                    "2048x2048": {
+                        "file": "church-03-homepage-625x2048.jpg",
+                        "width": 625,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 170235
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "church-03-homepage.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "c9335aaf0be89c35b5e3644195f912ca76c764d6"
+        ]
+    }
+}
