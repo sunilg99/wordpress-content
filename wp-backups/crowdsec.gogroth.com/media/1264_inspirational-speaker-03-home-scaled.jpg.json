@@ -1,0 +1,83 @@
+{
+    "ID": 1264,
+    "post_title": "inspirational-speaker-03-home.jpg",
+    "post_name": "inspirational-speaker-03-home-jpg",
+    "post_date": "2025-02-06 11:12:14",
+    "post_mime_type": "image\/jpeg",
+    "filename": "inspirational-speaker-03-home-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/inspirational-speaker-03-home-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 662,
+                "height": 2560,
+                "file": "2025\/02\/inspirational-speaker-03-home-scaled.jpg",
+                "filesize": 125906,
+                "sizes": {
+                    "medium": {
+                        "file": "inspirational-speaker-03-home-78x300.jpg",
+                        "width": 78,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 4679
+                    },
+                    "large": {
+                        "file": "inspirational-speaker-03-home-265x1024.jpg",
+                        "width": 265,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 29983
+                    },
+                    "thumbnail": {
+                        "file": "inspirational-speaker-03-home-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 3748
+                    },
+                    "medium_large": {
+                        "file": "inspirational-speaker-03-home-768x2970.jpg",
+                        "width": 768,
+                        "height": 2970,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 159043
+                    },
+                    "1536x1536": {
+                        "file": "inspirational-speaker-03-home-397x1536.jpg",
+                        "width": 397,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 55677
+                    },
+                    "2048x2048": {
+                        "file": "inspirational-speaker-03-home-530x2048.jpg",
+                        "width": 530,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 87680
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "inspirational-speaker-03-home.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "1aa7efd23b7ec7303dc54f3ee31940ba809568ff"
+        ]
+    }
+}
