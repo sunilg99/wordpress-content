@@ -64,6 +64,15 @@
                 }
             }
         },
+        "1745029473": {
+            "wc_admin_unsnooze_admin_notes": {
+                "40cd750bba9870f18aada2478b24840a": {
+                    "schedule": "hourly",
+                    "args": [],
+                    "interval": 3600
+                }
+            }
+        },
         "1745030114": {
             "wordfence_ls_ntp_cron": {
                 "40cd750bba9870f18aada2478b24840a": {
