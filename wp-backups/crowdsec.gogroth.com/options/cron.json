@@ -10,25 +10,16 @@
                 }
             }
         },
-        "1745033822": {
-            "wp_github_sync_scheduled_backup": {
-                "40cd750bba9870f18aada2478b24840a": {
-                    "schedule": "hourly",
-                    "args": [],
-                    "interval": 3600
-                }
-            }
-        },
-        "1745035449": {
-            "wp_github_sync_scheduled_backup": {
-                "40cd750bba9870f18aada2478b24840a": {
-                    "schedule": "hourly",
-                    "args": [],
-                    "interval": 3600
-                }
-            }
-        },
         "1745035451": {
+            "wp_github_sync_scheduled_backup": {
+                "40cd750bba9870f18aada2478b24840a": {
+                    "schedule": "hourly",
+                    "args": [],
+                    "interval": 3600
+                }
+            }
+        },
+        "1745035464": {
             "wp_github_sync_scheduled_backup": {
                 "40cd750bba9870f18aada2478b24840a": {
                     "schedule": "hourly",
@@ -355,5 +346,5 @@
         },
         "version": 2
     },
-    "updated_at": "2025-04-19 04:04:22"
+    "updated_at": "2025-04-19 04:04:46"
 }
