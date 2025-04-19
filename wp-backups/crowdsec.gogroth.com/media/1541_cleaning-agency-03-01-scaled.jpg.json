@@ -1,0 +1,83 @@
+{
+    "ID": 1541,
+    "post_title": "cleaning-agency-03-01.jpg",
+    "post_name": "cleaning-agency-03-01-jpg",
+    "post_date": "2025-02-06 11:14:47",
+    "post_mime_type": "image\/jpeg",
+    "filename": "cleaning-agency-03-01-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/cleaning-agency-03-01-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 608,
+                "height": 2560,
+                "file": "2025\/02\/cleaning-agency-03-01-scaled.jpg",
+                "filesize": 226131,
+                "sizes": {
+                    "medium": {
+                        "file": "cleaning-agency-03-01-71x300.jpg",
+                        "width": 71,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 7372
+                    },
+                    "large": {
+                        "file": "cleaning-agency-03-01-243x1024.jpg",
+                        "width": 243,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 50509
+                    },
+                    "thumbnail": {
+                        "file": "cleaning-agency-03-01-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 6590
+                    },
+                    "medium_large": {
+                        "file": "cleaning-agency-03-01-768x3233.jpg",
+                        "width": 768,
+                        "height": 3233,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 331553
+                    },
+                    "1536x1536": {
+                        "file": "cleaning-agency-03-01-365x1536.jpg",
+                        "width": 365,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 96455
+                    },
+                    "2048x2048": {
+                        "file": "cleaning-agency-03-01-486x2048.jpg",
+                        "width": 486,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 154492
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "cleaning-agency-03-01.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "08d555f8fad1b08180313cb69ab549b9e6e04811"
+        ]
+    }
+}
