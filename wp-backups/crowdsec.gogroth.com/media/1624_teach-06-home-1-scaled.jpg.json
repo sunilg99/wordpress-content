@@ -1,0 +1,83 @@
+{
+    "ID": 1624,
+    "post_title": "teach-06-home-1.jpg",
+    "post_name": "teach-06-home-1-jpg",
+    "post_date": "2025-02-06 11:15:30",
+    "post_mime_type": "image\/jpeg",
+    "filename": "teach-06-home-1-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/teach-06-home-1-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 450,
+                "height": 2560,
+                "file": "2025\/02\/teach-06-home-1-scaled.jpg",
+                "filesize": 114480,
+                "sizes": {
+                    "medium": {
+                        "file": "teach-06-home-1-53x300.jpg",
+                        "width": 53,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 4321
+                    },
+                    "large": {
+                        "file": "teach-06-home-1-180x1024.jpg",
+                        "width": 180,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 25675
+                    },
+                    "thumbnail": {
+                        "file": "teach-06-home-1-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 4016
+                    },
+                    "medium_large": {
+                        "file": "teach-06-home-1-768x4371.jpg",
+                        "width": 768,
+                        "height": 4371,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 274151
+                    },
+                    "1536x1536": {
+                        "file": "teach-06-home-1-270x1536.jpg",
+                        "width": 270,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 49363
+                    },
+                    "2048x2048": {
+                        "file": "teach-06-home-1-360x2048.jpg",
+                        "width": 360,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 76978
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "teach-06-home-1.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "5017a2cdad4c3f795f69e1203e33833a0e6a7d9b"
+        ]
+    }
+}
