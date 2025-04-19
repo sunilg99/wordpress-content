@@ -82,6 +82,15 @@
                 }
             }
         },
+        "1745036662": {
+            "jetpack_clean_nonces": {
+                "40cd750bba9870f18aada2478b24840a": {
+                    "schedule": "hourly",
+                    "args": [],
+                    "interval": 3600
+                }
+            }
+        },
         "1745038506": {
             "check_user_modifications": {
                 "40cd750bba9870f18aada2478b24840a": {
