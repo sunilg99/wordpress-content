@@ -1,0 +1,83 @@
+{
+    "ID": 1310,
+    "post_title": "school-kindergarten-03-home.jpg",
+    "post_name": "school-kindergarten-03-home-jpg-2",
+    "post_date": "2025-02-06 11:12:40",
+    "post_mime_type": "image\/jpeg",
+    "filename": "school-kindergarten-03-home-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/school-kindergarten-03-home-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 546,
+                "height": 2560,
+                "file": "2025\/02\/school-kindergarten-03-home-scaled.jpg",
+                "filesize": 144407,
+                "sizes": {
+                    "medium": {
+                        "file": "school-kindergarten-03-home-64x300.jpg",
+                        "width": 64,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 4166
+                    },
+                    "large": {
+                        "file": "school-kindergarten-03-home-218x1024.jpg",
+                        "width": 218,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 32577
+                    },
+                    "thumbnail": {
+                        "file": "school-kindergarten-03-home-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 4840
+                    },
+                    "medium_large": {
+                        "file": "school-kindergarten-03-home-768x3601.jpg",
+                        "width": 768,
+                        "height": 3601,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 241698
+                    },
+                    "1536x1536": {
+                        "file": "school-kindergarten-03-home-328x1536.jpg",
+                        "width": 328,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 63239
+                    },
+                    "2048x2048": {
+                        "file": "school-kindergarten-03-home-437x2048.jpg",
+                        "width": 437,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 101306
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "school-kindergarten-03-home.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "a4844e1dd0d882b8a59c51c92a940f9bca689d15"
+        ]
+    }
+}
