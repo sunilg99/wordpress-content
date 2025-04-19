@@ -127,6 +127,15 @@
                 }
             }
         },
+        "1745031306": {
+            "check_user_modifications": {
+                "40cd750bba9870f18aada2478b24840a": {
+                    "schedule": "hourly",
+                    "args": [],
+                    "interval": 3600
+                }
+            }
+        },
         "1745036661": {
             "woocommerce_cleanup_sessions": {
                 "40cd750bba9870f18aada2478b24840a": {
@@ -355,5 +364,5 @@
         },
         "version": 2
     },
-    "updated_at": "2025-04-19 02:11:27"
+    "updated_at": "2025-04-19 02:11:28"
 }
