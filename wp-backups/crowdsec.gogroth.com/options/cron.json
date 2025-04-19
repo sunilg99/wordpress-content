@@ -1,8 +1,8 @@
 {
     "name": "cron",
     "value": {
-        "1745033714": {
-            "wordfence_ls_ntp_cron": {
+        "1745035492": {
+            "wsal_cleanup_hook": {
                 "40cd750bba9870f18aada2478b24840a": {
                     "schedule": "hourly",
                     "args": [],
@@ -10,8 +10,8 @@
                 }
             }
         },
-        "1745035492": {
-            "wsal_cleanup_hook": {
+        "1745035498": {
+            "wp_github_sync_scheduled_backup": {
                 "40cd750bba9870f18aada2478b24840a": {
                     "schedule": "hourly",
                     "args": [],
@@ -28,7 +28,7 @@
                 }
             }
         },
-        "1745035514": {
+        "1745035513": {
             "wp_github_sync_scheduled_backup": {
                 "40cd750bba9870f18aada2478b24840a": {
                     "schedule": "hourly",
@@ -66,6 +66,15 @@
         },
         "1745037037": {
             "wp_github_sync_scheduled_backup": {
+                "40cd750bba9870f18aada2478b24840a": {
+                    "schedule": "hourly",
+                    "args": [],
+                    "interval": 3600
+                }
+            }
+        },
+        "1745037314": {
+            "wordfence_ls_ntp_cron": {
                 "40cd750bba9870f18aada2478b24840a": {
                     "schedule": "hourly",
                     "args": [],
