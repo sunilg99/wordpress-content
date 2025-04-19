@@ -1,0 +1,83 @@
+{
+    "ID": 1501,
+    "post_title": "custom-printing-02-homepage.jpg",
+    "post_name": "custom-printing-02-homepage-jpg",
+    "post_date": "2025-02-06 11:14:23",
+    "post_mime_type": "image\/jpeg",
+    "filename": "custom-printing-02-homepage-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/custom-printing-02-homepage-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 835,
+                "height": 2560,
+                "file": "2025\/02\/custom-printing-02-homepage-scaled.jpg",
+                "filesize": 208686,
+                "sizes": {
+                    "medium": {
+                        "file": "custom-printing-02-homepage-98x300.jpg",
+                        "width": 98,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 7885
+                    },
+                    "large": {
+                        "file": "custom-printing-02-homepage-334x1024.jpg",
+                        "width": 334,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 46957
+                    },
+                    "thumbnail": {
+                        "file": "custom-printing-02-homepage-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 6011
+                    },
+                    "medium_large": {
+                        "file": "custom-printing-02-homepage-768x2354.jpg",
+                        "width": 768,
+                        "height": 2354,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 180642
+                    },
+                    "1536x1536": {
+                        "file": "custom-printing-02-homepage-501x1536.jpg",
+                        "width": 501,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 90307
+                    },
+                    "2048x2048": {
+                        "file": "custom-printing-02-homepage-668x2048.jpg",
+                        "width": 668,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 144314
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "custom-printing-02-homepage.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "0f6fc161b03723d151ba79e2676857788f81004f"
+        ]
+    }
+}
