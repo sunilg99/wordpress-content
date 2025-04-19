@@ -1,0 +1,75 @@
+{
+    "ID": 1836,
+    "post_title": "jewellery-03-homepage.jpg",
+    "post_name": "jewellery-03-homepage-jpg",
+    "post_date": "2025-02-06 11:17:21",
+    "post_mime_type": "image\/jpeg",
+    "filename": "jewellery-03-homepage.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/jewellery-03-homepage.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 1200,
+                "height": 1643,
+                "file": "2025\/02\/jewellery-03-homepage.jpg",
+                "filesize": 217160,
+                "sizes": {
+                    "medium": {
+                        "file": "jewellery-03-homepage-219x300.jpg",
+                        "width": 219,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 13800
+                    },
+                    "large": {
+                        "file": "jewellery-03-homepage-748x1024.jpg",
+                        "width": 748,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 93635
+                    },
+                    "thumbnail": {
+                        "file": "jewellery-03-homepage-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 5912
+                    },
+                    "medium_large": {
+                        "file": "jewellery-03-homepage-768x1052.jpg",
+                        "width": 768,
+                        "height": 1052,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 95577
+                    },
+                    "1536x1536": {
+                        "file": "jewellery-03-homepage-1122x1536.jpg",
+                        "width": 1122,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 177108
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                }
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "9ce858c3de04f17996725b3103fa7b7708a83257"
+        ]
+    }
+}
