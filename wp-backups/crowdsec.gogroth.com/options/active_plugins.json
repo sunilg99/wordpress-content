@@ -8,7 +8,8 @@
         "file_manager_advanced.php",
         "postman-smtp.php",
         "query-monitor.php",
-        "revision.php"
+        "revision.php",
+        "wp-content\/db.php"
     ],
-    "updated_at": "2025-04-19 04:05:35"
+    "updated_at": "2025-04-19 04:05:42"
 }
