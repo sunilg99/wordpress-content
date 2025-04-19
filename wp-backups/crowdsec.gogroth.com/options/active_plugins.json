@@ -2,6 +2,7 @@
     "name": "active_plugins",
     "value": [
         "all-in-one-wp-migration\/all-in-one-wp-migration.php",
+        "astra-portfolio.php",
         "bnfw\/bnfw.php",
         "call-now-button.php",
         "classic-editor\/classic-editor.php",
@@ -12,5 +13,5 @@
         "wp-content\/db.php",
         "wp-security-audit-log.php"
     ],
-    "updated_at": "2025-04-19 04:05:49"
+    "updated_at": "2025-04-19 04:06:03"
 }
