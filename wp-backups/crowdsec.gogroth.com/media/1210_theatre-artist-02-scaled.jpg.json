@@ -1,0 +1,83 @@
+{
+    "ID": 1210,
+    "post_title": "theatre-artist-02.jpg",
+    "post_name": "theatre-artist-02-jpg",
+    "post_date": "2025-02-06 11:11:29",
+    "post_mime_type": "image\/jpeg",
+    "filename": "theatre-artist-02-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/theatre-artist-02-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 560,
+                "height": 2560,
+                "file": "2025\/02\/theatre-artist-02-scaled.jpg",
+                "filesize": 149364,
+                "sizes": {
+                    "medium": {
+                        "file": "theatre-artist-02-66x300.jpg",
+                        "width": 66,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 7991
+                    },
+                    "large": {
+                        "file": "theatre-artist-02-224x1024.jpg",
+                        "width": 224,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 31342
+                    },
+                    "thumbnail": {
+                        "file": "theatre-artist-02-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 8552
+                    },
+                    "medium_large": {
+                        "file": "theatre-artist-02-768x3510.jpg",
+                        "width": 768,
+                        "height": 3510,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 253858
+                    },
+                    "1536x1536": {
+                        "file": "theatre-artist-02-336x1536.jpg",
+                        "width": 336,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 61175
+                    },
+                    "2048x2048": {
+                        "file": "theatre-artist-02-448x2048.jpg",
+                        "width": 448,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 100376
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "theatre-artist-02.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "8e51d2dc1342d89f78c573754fe8ef07fc33662e"
+        ]
+    }
+}
