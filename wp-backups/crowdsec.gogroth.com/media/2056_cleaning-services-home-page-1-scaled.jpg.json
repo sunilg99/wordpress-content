@@ -1,0 +1,83 @@
+{
+    "ID": 2056,
+    "post_title": "cleaning-services-home-page.jpg",
+    "post_name": "cleaning-services-home-page-jpg-2",
+    "post_date": "2025-02-06 11:19:34",
+    "post_mime_type": "image\/jpeg",
+    "filename": "cleaning-services-home-page-1-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/cleaning-services-home-page-1-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 835,
+                "height": 2560,
+                "file": "2025\/02\/cleaning-services-home-page-1-scaled.jpg",
+                "filesize": 208959,
+                "sizes": {
+                    "medium": {
+                        "file": "cleaning-services-home-page-1-98x300.jpg",
+                        "width": 98,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 7660
+                    },
+                    "large": {
+                        "file": "cleaning-services-home-page-1-334x1024.jpg",
+                        "width": 334,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 49006
+                    },
+                    "thumbnail": {
+                        "file": "cleaning-services-home-page-1-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 4520
+                    },
+                    "medium_large": {
+                        "file": "cleaning-services-home-page-1-768x2356.jpg",
+                        "width": 768,
+                        "height": 2356,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 188025
+                    },
+                    "1536x1536": {
+                        "file": "cleaning-services-home-page-1-501x1536.jpg",
+                        "width": 501,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 94888
+                    },
+                    "2048x2048": {
+                        "file": "cleaning-services-home-page-1-668x2048.jpg",
+                        "width": 668,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 149897
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "cleaning-services-home-page-1.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "af35aef47d3d61f3e1434bb86cc7c125b0695344"
+        ]
+    }
+}
