@@ -46,15 +46,6 @@
                 }
             }
         },
-        "1745033437": {
-            "wp_github_sync_scheduled_backup": {
-                "40cd750bba9870f18aada2478b24840a": {
-                    "schedule": "hourly",
-                    "args": [],
-                    "interval": 3600
-                }
-            }
-        },
         "1745033714": {
             "wordfence_ls_ntp_cron": {
                 "40cd750bba9870f18aada2478b24840a": {
@@ -355,5 +346,5 @@
         },
         "version": 2
     },
-    "updated_at": "2025-04-19 04:04:13"
+    "updated_at": "2025-04-19 04:04:14"
 }
