@@ -9,7 +9,8 @@
         "postman-smtp.php",
         "query-monitor.php",
         "revision.php",
-        "wp-content\/db.php"
+        "wp-content\/db.php",
+        "wp-security-audit-log.php"
     ],
-    "updated_at": "2025-04-19 04:05:42"
+    "updated_at": "2025-04-19 04:05:49"
 }
