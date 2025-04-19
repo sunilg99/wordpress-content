@@ -1,0 +1,83 @@
+{
+    "ID": 1459,
+    "post_title": "personal-dietitian-homepage.jpg",
+    "post_name": "personal-dietitian-homepage-jpg",
+    "post_date": "2025-02-06 11:14:04",
+    "post_mime_type": "image\/jpeg",
+    "filename": "personal-dietitian-homepage-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/personal-dietitian-homepage-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 862,
+                "height": 2560,
+                "file": "2025\/02\/personal-dietitian-homepage-scaled.jpg",
+                "filesize": 211108,
+                "sizes": {
+                    "medium": {
+                        "file": "personal-dietitian-homepage-101x300.jpg",
+                        "width": 101,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 7229
+                    },
+                    "large": {
+                        "file": "personal-dietitian-homepage-345x1024.jpg",
+                        "width": 345,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 49568
+                    },
+                    "thumbnail": {
+                        "file": "personal-dietitian-homepage-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 4472
+                    },
+                    "medium_large": {
+                        "file": "personal-dietitian-homepage-768x2282.jpg",
+                        "width": 768,
+                        "height": 2282,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 176165
+                    },
+                    "1536x1536": {
+                        "file": "personal-dietitian-homepage-517x1536.jpg",
+                        "width": 517,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 95614
+                    },
+                    "2048x2048": {
+                        "file": "personal-dietitian-homepage-689x2048.jpg",
+                        "width": 689,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 152387
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "personal-dietitian-homepage.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "3df72fc31cf4f83a955e471897442b235263c18a"
+        ]
+    }
+}
