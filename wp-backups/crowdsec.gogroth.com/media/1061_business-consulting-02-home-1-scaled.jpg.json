@@ -1,0 +1,83 @@
+{
+    "ID": 1061,
+    "post_title": "business-consulting-02-home.jpg",
+    "post_name": "business-consulting-02-home-jpg-2",
+    "post_date": "2025-02-06 11:09:40",
+    "post_mime_type": "image\/jpeg",
+    "filename": "business-consulting-02-home-1-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/business-consulting-02-home-1-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 620,
+                "height": 2560,
+                "file": "2025\/02\/business-consulting-02-home-1-scaled.jpg",
+                "filesize": 183470,
+                "sizes": {
+                    "medium": {
+                        "file": "business-consulting-02-home-1-73x300.jpg",
+                        "width": 73,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 5763
+                    },
+                    "large": {
+                        "file": "business-consulting-02-home-1-248x1024.jpg",
+                        "width": 248,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 40824
+                    },
+                    "thumbnail": {
+                        "file": "business-consulting-02-home-1-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 4364
+                    },
+                    "medium_large": {
+                        "file": "business-consulting-02-home-1-768x3173.jpg",
+                        "width": 768,
+                        "height": 3173,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 255411
+                    },
+                    "1536x1536": {
+                        "file": "business-consulting-02-home-1-372x1536.jpg",
+                        "width": 372,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 79762
+                    },
+                    "2048x2048": {
+                        "file": "business-consulting-02-home-1-496x2048.jpg",
+                        "width": 496,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 125493
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "business-consulting-02-home-1.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "48eb9cf117aaaa66e78d9951b80d810a314e4efd"
+        ]
+    }
+}
