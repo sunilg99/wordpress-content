@@ -1,15 +1,6 @@
 {
     "name": "cron",
     "value": {
-        "1745031850": {
-            "wp_privacy_delete_old_export_files": {
-                "40cd750bba9870f18aada2478b24840a": {
-                    "schedule": "hourly",
-                    "args": [],
-                    "interval": 3600
-                }
-            }
-        },
         "1745031892": {
             "wsal_cleanup_hook": {
                 "40cd750bba9870f18aada2478b24840a": {
@@ -364,5 +355,5 @@
         },
         "version": 2
     },
-    "updated_at": "2025-04-19 04:04:15"
+    "updated_at": "2025-04-19 04:04:16"
 }
