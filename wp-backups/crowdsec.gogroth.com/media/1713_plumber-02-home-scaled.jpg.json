@@ -1,0 +1,83 @@
+{
+    "ID": 1713,
+    "post_title": "plumber-02-home.jpg",
+    "post_name": "plumber-02-home-jpg",
+    "post_date": "2025-02-06 11:16:14",
+    "post_mime_type": "image\/jpeg",
+    "filename": "plumber-02-home-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/plumber-02-home-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 782,
+                "height": 2560,
+                "file": "2025\/02\/plumber-02-home-scaled.jpg",
+                "filesize": 233819,
+                "sizes": {
+                    "medium": {
+                        "file": "plumber-02-home-92x300.jpg",
+                        "width": 92,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 7417
+                    },
+                    "large": {
+                        "file": "plumber-02-home-313x1024.jpg",
+                        "width": 313,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 50511
+                    },
+                    "thumbnail": {
+                        "file": "plumber-02-home-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 3736
+                    },
+                    "medium_large": {
+                        "file": "plumber-02-home-768x2514.jpg",
+                        "width": 768,
+                        "height": 2514,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 227629
+                    },
+                    "1536x1536": {
+                        "file": "plumber-02-home-469x1536.jpg",
+                        "width": 469,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 101594
+                    },
+                    "2048x2048": {
+                        "file": "plumber-02-home-626x2048.jpg",
+                        "width": 626,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 164956
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "plumber-02-home.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "0cc9ade971e93ed6b05e3de8f106d0edf6cef21b"
+        ]
+    }
+}
