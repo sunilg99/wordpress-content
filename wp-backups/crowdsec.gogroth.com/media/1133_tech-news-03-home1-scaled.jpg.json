@@ -1,0 +1,83 @@
+{
+    "ID": 1133,
+    "post_title": "tech-news-03-home1.jpg",
+    "post_name": "tech-news-03-home1-jpg",
+    "post_date": "2025-02-06 11:10:39",
+    "post_mime_type": "image\/jpeg",
+    "filename": "tech-news-03-home1-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/tech-news-03-home1-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 494,
+                "height": 2560,
+                "file": "2025\/02\/tech-news-03-home1-scaled.jpg",
+                "filesize": 200522,
+                "sizes": {
+                    "medium": {
+                        "file": "tech-news-03-home1-58x300.jpg",
+                        "width": 58,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 7213
+                    },
+                    "large": {
+                        "file": "tech-news-03-home1-198x1024.jpg",
+                        "width": 198,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 46294
+                    },
+                    "thumbnail": {
+                        "file": "tech-news-03-home1-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 7432
+                    },
+                    "medium_large": {
+                        "file": "tech-news-03-home1-768x3981.jpg",
+                        "width": 768,
+                        "height": 3981,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 397334
+                    },
+                    "1536x1536": {
+                        "file": "tech-news-03-home1-296x1536.jpg",
+                        "width": 296,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 86834
+                    },
+                    "2048x2048": {
+                        "file": "tech-news-03-home1-395x2048.jpg",
+                        "width": 395,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 141209
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "tech-news-03-home1.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "443d76bca5d8f18f3a399524f33c543bdbaa320d"
+        ]
+    }
+}
