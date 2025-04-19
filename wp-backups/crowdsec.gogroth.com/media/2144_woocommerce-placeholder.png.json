@@ -1,0 +1,65 @@
+{
+    "ID": 2144,
+    "post_title": "woocommerce-placeholder",
+    "post_name": "woocommerce-placeholder",
+    "post_date": "2025-04-09 10:24:21",
+    "post_mime_type": "image\/png",
+    "filename": "woocommerce-placeholder.png",
+    "meta": {
+        "_wp_attached_file": [
+            "woocommerce-placeholder.png"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 1200,
+                "height": 1200,
+                "file": "woocommerce-placeholder.png",
+                "filesize": 48149,
+                "sizes": {
+                    "medium": {
+                        "file": "woocommerce-placeholder-300x300.png",
+                        "width": 300,
+                        "height": 300,
+                        "mime-type": "image\/png",
+                        "filesize": 10479
+                    },
+                    "large": {
+                        "file": "woocommerce-placeholder-1024x1024.png",
+                        "width": 1024,
+                        "height": 1024,
+                        "mime-type": "image\/png",
+                        "filesize": 76215
+                    },
+                    "thumbnail": {
+                        "file": "woocommerce-placeholder-150x150.png",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/png",
+                        "filesize": 3753
+                    },
+                    "medium_large": {
+                        "file": "woocommerce-placeholder-768x768.png",
+                        "width": 768,
+                        "height": 768,
+                        "mime-type": "image\/png",
+                        "filesize": 46535
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                }
+            }
+        ]
+    }
+}
