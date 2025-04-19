@@ -1,0 +1,83 @@
+{
+    "ID": 1415,
+    "post_title": "architects-03.jpg",
+    "post_name": "architects-03-jpg",
+    "post_date": "2025-02-06 11:13:34",
+    "post_mime_type": "image\/jpeg",
+    "filename": "architects-03-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/architects-03-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 744,
+                "height": 2560,
+                "file": "2025\/02\/architects-03-scaled.jpg",
+                "filesize": 167892,
+                "sizes": {
+                    "medium": {
+                        "file": "architects-03-87x300.jpg",
+                        "width": 87,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 8384
+                    },
+                    "large": {
+                        "file": "architects-03-298x1024.jpg",
+                        "width": 298,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 40808
+                    },
+                    "thumbnail": {
+                        "file": "architects-03-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 6315
+                    },
+                    "medium_large": {
+                        "file": "architects-03-768x2643.jpg",
+                        "width": 768,
+                        "height": 2643,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 178131
+                    },
+                    "1536x1536": {
+                        "file": "architects-03-446x1536.jpg",
+                        "width": 446,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 75079
+                    },
+                    "2048x2048": {
+                        "file": "architects-03-595x2048.jpg",
+                        "width": 595,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 119213
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "architects-03.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "e0346e78b4235e0400f0e12a393a0c7f0b41ed73"
+        ]
+    }
+}
