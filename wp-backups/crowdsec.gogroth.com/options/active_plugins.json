@@ -7,11 +7,12 @@
         "call-now-button.php",
         "classic-editor\/classic-editor.php",
         "file_manager_advanced.php",
+        "ihaf.php",
         "postman-smtp.php",
         "query-monitor.php",
         "revision.php",
         "wp-content\/db.php",
         "wp-security-audit-log.php"
     ],
-    "updated_at": "2025-04-19 04:06:03"
+    "updated_at": "2025-04-19 04:06:11"
 }
