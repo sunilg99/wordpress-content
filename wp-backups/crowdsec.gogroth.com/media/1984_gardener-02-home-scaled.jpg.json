@@ -1,0 +1,83 @@
+{
+    "ID": 1984,
+    "post_title": "gardener-02-home.jpg",
+    "post_name": "gardener-02-home-jpg",
+    "post_date": "2025-02-06 11:18:42",
+    "post_mime_type": "image\/jpeg",
+    "filename": "gardener-02-home-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/gardener-02-home-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 615,
+                "height": 2560,
+                "file": "2025\/02\/gardener-02-home-scaled.jpg",
+                "filesize": 173319,
+                "sizes": {
+                    "medium": {
+                        "file": "gardener-02-home-72x300.jpg",
+                        "width": 72,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 5181
+                    },
+                    "large": {
+                        "file": "gardener-02-home-246x1024.jpg",
+                        "width": 246,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 37063
+                    },
+                    "thumbnail": {
+                        "file": "gardener-02-home-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 4706
+                    },
+                    "medium_large": {
+                        "file": "gardener-02-home-768x3197.jpg",
+                        "width": 768,
+                        "height": 3197,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 249304
+                    },
+                    "1536x1536": {
+                        "file": "gardener-02-home-369x1536.jpg",
+                        "width": 369,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 73552
+                    },
+                    "2048x2048": {
+                        "file": "gardener-02-home-492x2048.jpg",
+                        "width": 492,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 120211
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "gardener-02-home.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "e03941600a0e85d82bf90cdec3095e2b4a48a6c1"
+        ]
+    }
+}
