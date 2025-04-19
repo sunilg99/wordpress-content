@@ -1,0 +1,83 @@
+{
+    "ID": 1571,
+    "post_title": "pool-services-04-homepage.jpg",
+    "post_name": "pool-services-04-homepage-jpg",
+    "post_date": "2025-02-06 11:15:04",
+    "post_mime_type": "image\/jpeg",
+    "filename": "pool-services-04-homepage-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/pool-services-04-homepage-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 646,
+                "height": 2560,
+                "file": "2025\/02\/pool-services-04-homepage-scaled.jpg",
+                "filesize": 287969,
+                "sizes": {
+                    "medium": {
+                        "file": "pool-services-04-homepage-76x300.jpg",
+                        "width": 76,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 9503
+                    },
+                    "large": {
+                        "file": "pool-services-04-homepage-259x1024.jpg",
+                        "width": 259,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 63769
+                    },
+                    "thumbnail": {
+                        "file": "pool-services-04-homepage-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 8551
+                    },
+                    "medium_large": {
+                        "file": "pool-services-04-homepage-768x3041.jpg",
+                        "width": 768,
+                        "height": 3041,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 379498
+                    },
+                    "1536x1536": {
+                        "file": "pool-services-04-homepage-388x1536.jpg",
+                        "width": 388,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 123655
+                    },
+                    "2048x2048": {
+                        "file": "pool-services-04-homepage-517x2048.jpg",
+                        "width": 517,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 198225
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "pool-services-04-homepage.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "4aef9153fbbcd444a7b308020ac8843b8b8c8947"
+        ]
+    }
+}
