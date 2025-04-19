@@ -1,7 +1,7 @@
 {
     "name": "cron",
     "value": {
-        "1745035565": {
+        "1745035571": {
             "wp_github_sync_scheduled_backup": {
                 "40cd750bba9870f18aada2478b24840a": {
                     "schedule": "hourly",
@@ -10,7 +10,7 @@
                 }
             }
         },
-        "1745035571": {
+        "1745035573": {
             "wp_github_sync_scheduled_backup": {
                 "40cd750bba9870f18aada2478b24840a": {
                     "schedule": "hourly",
@@ -353,7 +353,16 @@
                 }
             }
         },
+        "1745579115": {
+            "wpcode_usage_tracking_cron": {
+                "40cd750bba9870f18aada2478b24840a": {
+                    "schedule": "weekly",
+                    "args": [],
+                    "interval": 604800
+                }
+            }
+        },
         "version": 2
     },
-    "updated_at": "2025-04-19 04:06:11"
+    "updated_at": "2025-04-19 04:06:14"
 }
