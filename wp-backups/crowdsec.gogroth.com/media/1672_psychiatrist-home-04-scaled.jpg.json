@@ -1,0 +1,83 @@
+{
+    "ID": 1672,
+    "post_title": "psychiatrist-home-04.jpg",
+    "post_name": "psychiatrist-home-04-jpg",
+    "post_date": "2025-02-06 11:15:53",
+    "post_mime_type": "image\/jpeg",
+    "filename": "psychiatrist-home-04-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/psychiatrist-home-04-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 522,
+                "height": 2560,
+                "file": "2025\/02\/psychiatrist-home-04-scaled.jpg",
+                "filesize": 126467,
+                "sizes": {
+                    "medium": {
+                        "file": "psychiatrist-home-04-61x300.jpg",
+                        "width": 61,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 4961
+                    },
+                    "large": {
+                        "file": "psychiatrist-home-04-209x1024.jpg",
+                        "width": 209,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 29531
+                    },
+                    "thumbnail": {
+                        "file": "psychiatrist-home-04-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 3507
+                    },
+                    "medium_large": {
+                        "file": "psychiatrist-home-04-768x3766.jpg",
+                        "width": 768,
+                        "height": 3766,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 229370
+                    },
+                    "1536x1536": {
+                        "file": "psychiatrist-home-04-313x1536.jpg",
+                        "width": 313,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 56408
+                    },
+                    "2048x2048": {
+                        "file": "psychiatrist-home-04-418x2048.jpg",
+                        "width": 418,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 87926
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "psychiatrist-home-04.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "64580dbb622fbbdc1fde8206847dba15a4c736f0"
+        ]
+    }
+}
