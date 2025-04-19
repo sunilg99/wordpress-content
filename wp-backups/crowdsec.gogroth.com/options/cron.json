@@ -82,6 +82,15 @@
                 }
             }
         },
+        "1745036673": {
+            "wc_admin_unsnooze_admin_notes": {
+                "40cd750bba9870f18aada2478b24840a": {
+                    "schedule": "hourly",
+                    "args": [],
+                    "interval": 3600
+                }
+            }
+        },
         "1745038506": {
             "check_user_modifications": {
                 "40cd750bba9870f18aada2478b24840a": {
@@ -355,5 +364,5 @@
         },
         "version": 2
     },
-    "updated_at": "2025-04-19 04:04:19"
+    "updated_at": "2025-04-19 04:04:20"
 }
