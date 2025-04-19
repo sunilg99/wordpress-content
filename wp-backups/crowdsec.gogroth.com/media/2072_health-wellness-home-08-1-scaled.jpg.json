@@ -1,0 +1,83 @@
+{
+    "ID": 2072,
+    "post_title": "health-wellness-home-08.jpg",
+    "post_name": "health-wellness-home-08-jpg-2",
+    "post_date": "2025-02-06 11:19:46",
+    "post_mime_type": "image\/jpeg",
+    "filename": "health-wellness-home-08-1-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/health-wellness-home-08-1-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 676,
+                "height": 2560,
+                "file": "2025\/02\/health-wellness-home-08-1-scaled.jpg",
+                "filesize": 252752,
+                "sizes": {
+                    "medium": {
+                        "file": "health-wellness-home-08-1-79x300.jpg",
+                        "width": 79,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 9637
+                    },
+                    "large": {
+                        "file": "health-wellness-home-08-1-270x1024.jpg",
+                        "width": 270,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 58940
+                    },
+                    "thumbnail": {
+                        "file": "health-wellness-home-08-1-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 8341
+                    },
+                    "medium_large": {
+                        "file": "health-wellness-home-08-1-768x2909.jpg",
+                        "width": 768,
+                        "height": 2909,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 305041
+                    },
+                    "1536x1536": {
+                        "file": "health-wellness-home-08-1-405x1536.jpg",
+                        "width": 405,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 110667
+                    },
+                    "2048x2048": {
+                        "file": "health-wellness-home-08-1-541x2048.jpg",
+                        "width": 541,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 176582
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "health-wellness-home-08-1.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "a8306012504da04b379cfb2d56633ecdf7a62d9c"
+        ]
+    }
+}
