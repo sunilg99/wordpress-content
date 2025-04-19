@@ -1,0 +1,83 @@
+{
+    "ID": 1311,
+    "post_title": "cake-shop-04.jpg",
+    "post_name": "cake-shop-04-jpg",
+    "post_date": "2025-02-06 11:12:43",
+    "post_mime_type": "image\/jpeg",
+    "filename": "cake-shop-04-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/cake-shop-04-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 739,
+                "height": 2560,
+                "file": "2025\/02\/cake-shop-04-scaled.jpg",
+                "filesize": 188581,
+                "sizes": {
+                    "medium": {
+                        "file": "cake-shop-04-87x300.jpg",
+                        "width": 87,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 8476
+                    },
+                    "large": {
+                        "file": "cake-shop-04-296x1024.jpg",
+                        "width": 296,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 44346
+                    },
+                    "thumbnail": {
+                        "file": "cake-shop-04-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 7622
+                    },
+                    "medium_large": {
+                        "file": "cake-shop-04-768x2660.jpg",
+                        "width": 768,
+                        "height": 2660,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 199727
+                    },
+                    "1536x1536": {
+                        "file": "cake-shop-04-444x1536.jpg",
+                        "width": 444,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 82371
+                    },
+                    "2048x2048": {
+                        "file": "cake-shop-04-591x2048.jpg",
+                        "width": 591,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 131927
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "cake-shop-04.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "32517b0acedef54f5b4575535ddd83e957ea7458"
+        ]
+    }
+}
