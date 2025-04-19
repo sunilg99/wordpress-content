@@ -1,18 +1,17 @@
 {
     "name": "active_plugins",
-    "value": [
-        "all-in-one-wp-migration\/all-in-one-wp-migration.php",
-        "astra-portfolio.php",
-        "bnfw\/bnfw.php",
-        "call-now-button.php",
-        "classic-editor\/classic-editor.php",
-        "file_manager_advanced.php",
-        "ihaf.php",
-        "postman-smtp.php",
-        "query-monitor.php",
-        "revision.php",
-        "wp-content\/db.php",
-        "wp-security-audit-log.php"
-    ],
-    "updated_at": "2025-04-19 04:06:11"
+    "value": {
+        "0": "all-in-one-wp-migration\/all-in-one-wp-migration.php",
+        "1": "astra-portfolio.php",
+        "2": "bnfw\/bnfw.php",
+        "3": "call-now-button.php",
+        "4": "classic-editor\/classic-editor.php",
+        "5": "file_manager_advanced.php",
+        "6": "ihaf.php",
+        "7": "postman-smtp.php",
+        "8": "query-monitor.php",
+        "10": "wp-content\/db.php",
+        "11": "wp-security-audit-log.php"
+    },
+    "updated_at": "2025-04-19 04:06:23"
 }
