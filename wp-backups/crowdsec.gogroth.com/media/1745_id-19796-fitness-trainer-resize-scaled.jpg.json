@@ -1,0 +1,83 @@
+{
+    "ID": 1745,
+    "post_title": "id-19796-fitness-trainer-resize.jpg",
+    "post_name": "id-19796-fitness-trainer-resize-jpg",
+    "post_date": "2025-02-06 11:16:32",
+    "post_mime_type": "image\/jpeg",
+    "filename": "id-19796-fitness-trainer-resize-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/id-19796-fitness-trainer-resize-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 511,
+                "height": 2560,
+                "file": "2025\/02\/id-19796-fitness-trainer-resize-scaled.jpg",
+                "filesize": 122354,
+                "sizes": {
+                    "medium": {
+                        "file": "id-19796-fitness-trainer-resize-60x300.jpg",
+                        "width": 60,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 5205
+                    },
+                    "large": {
+                        "file": "id-19796-fitness-trainer-resize-205x1024.jpg",
+                        "width": 205,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 28822
+                    },
+                    "thumbnail": {
+                        "file": "id-19796-fitness-trainer-resize-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 4897
+                    },
+                    "medium_large": {
+                        "file": "id-19796-fitness-trainer-resize-768x3845.jpg",
+                        "width": 768,
+                        "height": 3845,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 232983
+                    },
+                    "1536x1536": {
+                        "file": "id-19796-fitness-trainer-resize-307x1536.jpg",
+                        "width": 307,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 53911
+                    },
+                    "2048x2048": {
+                        "file": "id-19796-fitness-trainer-resize-409x2048.jpg",
+                        "width": 409,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 85046
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "id-19796-fitness-trainer-resize.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "86aefea493cf6709bde976584ddd4d74c2dab990"
+        ]
+    }
+}
