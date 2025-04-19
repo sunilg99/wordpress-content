@@ -1,0 +1,83 @@
+{
+    "ID": 1248,
+    "post_title": "courier-03-homepage.jpg",
+    "post_name": "courier-03-homepage-jpg",
+    "post_date": "2025-02-06 11:11:59",
+    "post_mime_type": "image\/jpeg",
+    "filename": "courier-03-homepage-scaled.jpg",
+    "meta": {
+        "_wp_attached_file": [
+            "2025\/02\/courier-03-homepage-scaled.jpg"
+        ],
+        "_wp_attachment_metadata": [
+            {
+                "width": 899,
+                "height": 2560,
+                "file": "2025\/02\/courier-03-homepage-scaled.jpg",
+                "filesize": 198025,
+                "sizes": {
+                    "medium": {
+                        "file": "courier-03-homepage-105x300.jpg",
+                        "width": 105,
+                        "height": 300,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 7094
+                    },
+                    "large": {
+                        "file": "courier-03-homepage-360x1024.jpg",
+                        "width": 360,
+                        "height": 1024,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 46234
+                    },
+                    "thumbnail": {
+                        "file": "courier-03-homepage-150x150.jpg",
+                        "width": 150,
+                        "height": 150,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 4044
+                    },
+                    "medium_large": {
+                        "file": "courier-03-homepage-768x2188.jpg",
+                        "width": 768,
+                        "height": 2188,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 157362
+                    },
+                    "1536x1536": {
+                        "file": "courier-03-homepage-539x1536.jpg",
+                        "width": 539,
+                        "height": 1536,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 89619
+                    },
+                    "2048x2048": {
+                        "file": "courier-03-homepage-719x2048.jpg",
+                        "width": 719,
+                        "height": 2048,
+                        "mime-type": "image\/jpeg",
+                        "filesize": 139195
+                    }
+                },
+                "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                },
+                "original_image": "courier-03-homepage.jpg"
+            }
+        ],
+        "_astra_portfolio_image_hash": [
+            "560f81f19fc70a90b801b7be574d493fd92f6cfb"
+        ]
+    }
+}
